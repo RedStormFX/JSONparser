@@ -1,0 +1,19 @@
+{
+  "name": "jsonparse",
+  "version": "0.0.1",
+  "description": "Tools what help parse JSON file and send data to google doc api",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedStormFX/JSONparser.git"
+  },
+  "author": "Bohdan Rumyanzev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedStormFX/JSONparser/issues"
+  },
+  "homepage": "https://github.com/RedStormFX/JSONparser#readme"
+}
