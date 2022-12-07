@@ -1,0 +1,3063 @@
+{
+  "companies": {
+    "total": 214,
+    "results": []
+  },
+  "contacts": {
+    "total": 876,
+    "results": [
+      {
+        "id": "33844794-501010",
+        "name": {
+          "first": "Alex",
+          "last": "Bevis",
+          "full": "Alex Bevis"
+        },
+        "job_title": {
+          "department": ["Finance", "General Management"],
+          "title": "Chief Financial Officer",
+          "seniority": "Executive",
+          "raw": "CFO"
+        },
+        "social_link": "https://www.linkedin.com/in/alex-bevis-54a5b311",
+        "emails": [
+          {
+            "address": "...@frontier.co.uk",
+            "label": "work"
+          }
+        ],
+        "phones": [],
+        "metadata": {
+          "score": 7.0834017,
+          "company_lid": 501010
+        },
+        "location": {
+          "continent": "Europe",
+          "country": "United Kingdom",
+          "country_iso2": "GB"
+        },
+        "position": 0,
+        "contactId": "55b82370-5b91-11ed-ac35-dc0caee79340",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": false,
+        "isShown": false
+      },
+      {
+        "id": "80945411-7210",
+        "name": {
+          "first": "James",
+          "last": "Sharman",
+          "full": "James Sharman"
+        },
+        "job_title": {
+          "department": ["General Management", "Engineering & Technical"],
+          "title": "Chief Technology Officer",
+          "seniority": "Executive",
+          "raw": "Chief Technology Officer"
+        },
+        "social_link": "https://www.linkedin.com/in/jsharman",
+        "emails": [
+          {
+            "address": "...@climaxstudios.com",
+            "label": "work"
+          },
+          {
+            "address": "...@climaxstudios.com",
+            "label": "work"
+          }
+        ],
+        "phones": [
+          {
+            "number": "+44 797...",
+            "country_code": 44
+          }
+        ],
+        "metadata": {
+          "score": 7.027402,
+          "company_lid": 7210
+        },
+        "location": {
+          "continent": "Europe",
+          "country": "United Kingdom",
+          "country_iso2": "GB"
+        },
+        "position": 1,
+        "contactId": "55b82371-5b91-11ed-b717-5da46005df5b",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": false,
+        "isShown": false
+      },
+      {
+        "id": "69068121-1119857",
+        "name": {
+          "first": "Mathieu",
+          "last": "Garaud",
+          "full": "Mathieu Garaud"
+        },
+        "job_title": {
+          "department": ["General Management", "Engineering & Technical"],
+          "title": "Chief Technology Officer",
+          "seniority": "Executive",
+          "raw": "CTO"
+        },
+        "social_link": "https://www.linkedin.com/in/mathieu-garaud-b6a91230",
+        "emails": [
+          {
+            "address": "...@prettysimplegames.com",
+            "label": "work"
+          }
+        ],
+        "phones": [],
+        "metadata": {
+          "score": 7.027402,
+          "company_lid": 1119857
+        },
+        "location": {
+          "continent": "Europe",
+          "country": "France",
+          "country_iso2": "FR"
+        },
+        "position": 2,
+        "contactId": "55b82372-5b91-11ed-970d-2442761802ee",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": false,
+        "isShown": false
+      },
+      {
+        "id": "83840005-1539851",
+        "name": {
+          "first": "Stuart",
+          "last": "Wright",
+          "full": "Stuart Wright"
+        },
+        "job_title": {
+          "department": ["General Management", "Engineering & Technical"],
+          "title": "Chief Technology Officer - Publishing",
+          "seniority": "Executive",
+          "raw": "Chief Technology Officer - Publishing"
+        },
+        "social_link": "https://www.linkedin.com/in/therealstuartwright",
+        "emails": [
+          {
+            "address": "...@sega.co.uk",
+            "label": "work"
+          },
+          {
+            "address": "...@sega.com",
+            "label": "work"
+          }
+        ],
+        "phones": [
+          {
+            "number": "+44 20 ...",
+            "country_code": 44
+          },
+          {
+            "number": "+44 783...",
+            "country_code": 44
+          }
+        ],
+        "metadata": {
+          "score": 7.027402,
+          "company_lid": 1539851
+        },
+        "location": {
+          "continent": "Europe",
+          "country": "United Kingdom",
+          "country_iso2": "GB"
+        },
+        "position": 3,
+        "contactId": "55b82373-5b91-11ed-883c-34a218ff27f2",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": false,
+        "isShown": false
+      },
+      {
+        "id": "55832264-454295",
+        "name": {
+          "first": "Lenka",
+          "last": "Kaciakova",
+          "full": "Lenka Kaciakova"
+        },
+        "job_title": {
+          "department": ["Human Resources", "General Management"],
+          "title": "Vice President of Human Resources",
+          "seniority": "Vice President",
+          "raw": "VP of Human Resources"
+        },
+        "social_link": "https://www.linkedin.com/in/lenka-kaciakova-4a27a623",
+        "emails": [
+          {
+            "address": "...@wooga.net",
+            "label": "work"
+          }
+        ],
+        "phones": [
+          {
+            "number": "+49 30 ...",
+            "country_code": 49
+          }
+        ],
+        "metadata": {
+          "score": 7.0104017,
+          "company_lid": 454295
+        },
+        "location": {
+          "continent": "Europe",
+          "country": "Germany",
+          "country_iso2": "DE"
+        },
+        "position": 4,
+        "contactId": "55b82374-5b91-11ed-8c7e-bbdcc899284e",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": false,
+        "isShown": false
+      },
+      {
+        "id": "48533659-80970",
+        "name": {
+          "first": "Jason",
+          "last": "Wei",
+          "full": "Jason Wei"
+        },
+        "job_title": {
+          "department": ["Engineering & Technical", "General Management"],
+          "title": "Vice President of Engineering",
+          "seniority": "Vice President",
+          "raw": "VP of Engineering"
+        },
+        "social_link": "https://www.linkedin.com/in/jasonjwei",
+        "emails": [
+          {
+            "address": "...@demonware.net",
+            "label": "work"
+          },
+          {
+            "address": "...@gmail.com",
+            "label": "private"
+          }
+        ],
+        "phones": [],
+        "metadata": {
+          "score": 7.009402,
+          "company_lid": 80970
+        },
+        "location": {
+          "continent": "North America",
+          "country": "Canada",
+          "country_iso2": "CA"
+        },
+        "position": 5,
+        "contactId": "55b82375-5b91-11ed-a228-e1c516431d4e",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": false,
+        "isShown": false
+      },
+      {
+        "id": "71186336-941518",
+        "name": {
+          "first": "Tom",
+          "last": "Perry",
+          "full": "Tom Perry"
+        },
+        "job_title": {
+          "department": ["Engineering & Technical"],
+          "title": "Chief Engineer",
+          "seniority": "Executive",
+          "raw": "Chief Engineer"
+        },
+        "social_link": "https://www.linkedin.com/in/tom-perry-35830835",
+        "emails": [
+          {
+            "address": "...@playground-games.com",
+            "label": "work"
+          }
+        ],
+        "phones": [],
+        "metadata": {
+          "score": 7.009402,
+          "company_lid": 941518
+        },
+        "location": {
+          "continent": "Europe",
+          "country": "United Kingdom",
+          "country_iso2": "GB"
+        },
+        "position": 6,
+        "contactId": "55b82376-5b91-11ed-98dc-c6347d4902f5",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": false,
+        "isShown": false
+      },
+      {
+        "id": "67970930-465133",
+        "name": {
+          "first": "",
+          "last": "",
+          "full": ""
+        },
+        "job_title": {
+          "department": ["Finance", "General Management"],
+          "title": "Chief Financial Officer",
+          "seniority": "Executive",
+          "raw": "Chief Financial Officer"
+        },
+        "social_link": "",
+        "emails": [
+          {
+            "address": "...@vertigo-games.com",
+            "label": "work"
+          },
+          {
+            "address": "...@gmail.com",
+            "label": "private"
+          }
+        ],
+        "phones": [
+          {
+            "number": "+1 251-...",
+            "country_code": 1
+          }
+        ],
+        "metadata": {
+          "score": 6.983402,
+          "company_lid": 465133
+        },
+        "location": {
+          "continent": "North America",
+          "country": "United States",
+          "country_iso2": "US"
+        },
+        "position": 7,
+        "contactId": "55b82377-5b91-11ed-a49b-bcc7ce6c8cf4",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": true,
+        "isShown": false
+      },
+      {
+        "id": "34417206-55284",
+        "name": {
+          "first": "Christophe",
+          "last": "Nobileau",
+          "full": "Christophe Nobileau"
+        },
+        "job_title": {
+          "department": ["General Management"],
+          "title": "President",
+          "seniority": "Executive",
+          "raw": "président"
+        },
+        "social_link": "https://www.linkedin.com/in/christophe-nobileau-151a1b21",
+        "emails": [
+          {
+            "address": "...@focus-home.com",
+            "label": "work"
+          }
+        ],
+        "phones": [
+          {
+            "number": "+33 6 0...",
+            "country_code": 33
+          },
+          {
+            "number": "+33 1 5...",
+            "country_code": 33
+          }
+        ],
+        "metadata": {
+          "score": 6.927402,
+          "company_lid": 55284
+        },
+        "location": {
+          "continent": "Europe",
+          "country": "France",
+          "country_iso2": "FR"
+        },
+        "position": 8,
+        "contactId": "55b82378-5b91-11ed-ad7c-036fcd85072b",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": false,
+        "isShown": false
+      },
+      {
+        "id": "12844044-165622",
+        "name": {
+          "first": "Guillaume",
+          "last": "De fondaumière",
+          "full": "Guillaume De fondaumière"
+        },
+        "job_title": {
+          "department": ["General Management"],
+          "title": "President",
+          "seniority": "Executive",
+          "raw": "President"
+        },
+        "social_link": "https://www.linkedin.com/in/defondaumiere",
+        "emails": [
+          {
+            "address": "...@quanticdream.com",
+            "label": "work"
+          },
+          {
+            "address": "...@quanticdream.com",
+            "label": "work"
+          }
+        ],
+        "phones": [
+          {
+            "number": "+33 6 0...",
+            "country_code": 33
+          }
+        ],
+        "metadata": {
+          "score": 6.927402,
+          "company_lid": 165622
+        },
+        "location": {
+          "continent": "Europe",
+          "country": "France",
+          "country_iso2": "FR"
+        },
+        "position": 9,
+        "contactId": "55b82379-5b91-11ed-9e32-cf2dfe819429",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": false,
+        "isShown": false
+      },
+      {
+        "id": "106172760-481197",
+        "name": {
+          "first": "Jasper",
+          "last": "Schwartz",
+          "full": "Jasper Schwartz"
+        },
+        "job_title": {
+          "department": ["General Management"],
+          "title": "Chief Executive Officer",
+          "seniority": "Executive",
+          "raw": "CEO"
+        },
+        "social_link": "https://www.linkedin.com/in/jasperschwartz",
+        "emails": [
+          {
+            "address": "...@gamebasics.nl",
+            "label": "work"
+          }
+        ],
+        "phones": [
+          {
+            "number": "+31 6 5...",
+            "country_code": 31
+          },
+          {
+            "number": "+31 79 ...",
+            "country_code": 31
+          }
+        ],
+        "metadata": {
+          "score": 6.927402,
+          "company_lid": 481197
+        },
+        "location": {
+          "continent": "Europe",
+          "country": "Netherlands",
+          "country_iso2": "NL"
+        },
+        "position": 10,
+        "contactId": "55b8237a-5b91-11ed-ba7f-1807a0985f1c",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": false,
+        "isShown": false
+      },
+      {
+        "id": "24061756-1666639",
+        "name": {
+          "first": "Jonas",
+          "last": "Mårtensson",
+          "full": "Jonas Mårtensson"
+        },
+        "job_title": {
+          "department": ["General Management"],
+          "title": "Chief Executive Officer",
+          "seniority": "Executive",
+          "raw": "chief executive officer"
+        },
+        "social_link": "https://www.linkedin.com/in/jonas-mårtensson-28815712",
+        "emails": [
+          {
+            "address": "...@mojang.com",
+            "label": "work"
+          }
+        ],
+        "phones": [
+          {
+            "number": "+46 76 ...",
+            "country_code": 46
+          }
+        ],
+        "metadata": {
+          "score": 6.927402,
+          "company_lid": 1666639
+        },
+        "location": {
+          "continent": "Europe",
+          "country": "Sweden",
+          "country_iso2": "SE"
+        },
+        "position": 11,
+        "contactId": "55b8237b-5b91-11ed-b51f-112474806e69",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": false,
+        "isShown": false
+      },
+      {
+        "id": "69892980-31075",
+        "name": {
+          "first": "Phil",
+          "last": "Mansell",
+          "full": "Phil Mansell"
+        },
+        "job_title": {
+          "department": ["General Management"],
+          "title": "Chief Executive Officer",
+          "seniority": "Executive",
+          "raw": "Chief Executive Officer"
+        },
+        "social_link": "https://www.linkedin.com/in/phil-mansell-395b931",
+        "emails": [
+          {
+            "address": "...@jagex.com",
+            "label": "work"
+          }
+        ],
+        "phones": [
+          {
+            "number": "+44 779...",
+            "country_code": 44
+          },
+          {
+            "number": "+44 755...",
+            "country_code": 44
+          }
+        ],
+        "metadata": {
+          "score": 6.927402,
+          "company_lid": 31075
+        },
+        "location": {
+          "continent": "Europe",
+          "country": "United Kingdom",
+          "country_iso2": "GB"
+        },
+        "position": 12,
+        "contactId": "55b8237c-5b91-11ed-8f9d-040f007618a1",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": false,
+        "isShown": false
+      },
+      {
+        "id": "89121221-17653",
+        "name": {
+          "first": "Pim",
+          "last": "Holfve",
+          "full": "Pim Holfve"
+        },
+        "job_title": {
+          "department": ["General Management"],
+          "title": "Chief Executive Officer",
+          "seniority": "Executive",
+          "raw": "CEO"
+        },
+        "social_link": "https://www.linkedin.com/in/pimholfve",
+        "emails": [
+          {
+            "address": "...@avalanchestudios.se",
+            "label": "work"
+          }
+        ],
+        "phones": [
+          {
+            "number": "+46 70 ...",
+            "country_code": 46
+          }
+        ],
+        "metadata": {
+          "score": 6.927402,
+          "company_lid": 17653
+        },
+        "location": {
+          "continent": "Europe",
+          "country": "Sweden",
+          "country_iso2": "SE"
+        },
+        "position": 13,
+        "contactId": "55b8237d-5b91-11ed-a609-099fd85b65ac",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": false,
+        "isShown": false
+      },
+      {
+        "id": "89611327-3023985",
+        "name": {
+          "first": "",
+          "last": "",
+          "full": ""
+        },
+        "job_title": {
+          "department": ["General Management"],
+          "title": "Founder",
+          "seniority": "Executive",
+          "raw": "Founder"
+        },
+        "social_link": "",
+        "emails": [
+          {
+            "address": "...@camouflaj.com",
+            "label": "work"
+          },
+          {
+            "address": "...@gmail.com",
+            "label": "private"
+          }
+        ],
+        "phones": [
+          {
+            "number": "+1 425-...",
+            "country_code": 1
+          },
+          {
+            "number": "+1 360-...",
+            "country_code": 1
+          }
+        ],
+        "metadata": {
+          "score": 6.927402,
+          "company_lid": 3023985
+        },
+        "location": {
+          "continent": "North America",
+          "country": "United States",
+          "country_iso2": "US"
+        },
+        "position": 14,
+        "contactId": "55b8237e-5b91-11ed-aef7-a1b5b154983c",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": true,
+        "isShown": false
+      },
+      {
+        "id": "83534295-2710953",
+        "name": {
+          "first": "Simon",
+          "last": "Hade",
+          "full": "Simon Hade"
+        },
+        "job_title": {
+          "department": ["General Management", "Operations"],
+          "title": "Founder and Chief Operations Officer",
+          "seniority": "Executive",
+          "raw": "Founder & COO"
+        },
+        "social_link": "https://www.linkedin.com/in/simonhade",
+        "emails": [
+          {
+            "address": "...@spaceapegames.com",
+            "label": "work"
+          },
+          {
+            "address": "...@spaceapegames.com",
+            "label": "work"
+          }
+        ],
+        "phones": [
+          {
+            "number": "+44 741...",
+            "country_code": 44
+          },
+          {
+            "number": "+44 788...",
+            "country_code": 44
+          }
+        ],
+        "metadata": {
+          "score": 6.927402,
+          "company_lid": 2710953
+        },
+        "location": {
+          "continent": "Europe",
+          "country": "United Kingdom",
+          "country_iso2": "GB"
+        },
+        "position": 15,
+        "contactId": "55b8237f-5b91-11ed-81b9-7061c6a228c0",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": false,
+        "isShown": false
+      },
+      {
+        "id": "152711596-68536",
+        "name": {
+          "first": "Tim",
+          "last": "Bennison",
+          "full": "Tim Bennison"
+        },
+        "job_title": {
+          "department": ["General Management", "Operations"],
+          "title": "Chief Operating Officer",
+          "seniority": "Executive",
+          "raw": "Chief Operating Officer"
+        },
+        "social_link": "https://www.linkedin.com/in/tim-bennison-3b45a93",
+        "emails": [
+          {
+            "address": "...@hotheadgames.com",
+            "label": "work"
+          },
+          {
+            "address": "...@shaw.ca",
+            "label": "private"
+          }
+        ],
+        "phones": [
+          {
+            "number": "+1 604-...",
+            "country_code": 1
+          },
+          {
+            "number": "+60 4-6...",
+            "country_code": 60
+          }
+        ],
+        "metadata": {
+          "score": 6.927402,
+          "company_lid": 68536
+        },
+        "location": {
+          "continent": "North America",
+          "country": "Canada",
+          "country_iso2": "CA"
+        },
+        "position": 16,
+        "contactId": "55b82380-5b91-11ed-aed3-354948c09c25",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": false,
+        "isShown": false
+      },
+      {
+        "id": "81439955-501010",
+        "name": {
+          "first": "Laura",
+          "last": "Nemecek",
+          "full": "Laura Nemecek"
+        },
+        "job_title": {
+          "department": ["Human Resources", "General Management"],
+          "title": "Human Resources Business Partner",
+          "seniority": "Executive",
+          "raw": "HR Business Partner"
+        },
+        "social_link": "https://www.linkedin.com/in/lauranemecek",
+        "emails": [
+          {
+            "address": "...@frontier.co.uk",
+            "label": "work"
+          }
+        ],
+        "phones": [],
+        "metadata": {
+          "score": 6.910402,
+          "company_lid": 501010
+        },
+        "location": {
+          "continent": "Europe",
+          "country": "United Kingdom",
+          "country_iso2": "GB"
+        },
+        "position": 17,
+        "contactId": "55b82381-5b91-11ed-ad22-77a1b3b324c1",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": false,
+        "isShown": false
+      },
+      {
+        "id": "88471161-1910914",
+        "name": {
+          "first": "Michael",
+          "last": "Leznik",
+          "full": "Michael Leznik"
+        },
+        "job_title": {
+          "department": [
+            "Engineering & Technical",
+            "Research & Analytics",
+            "General Management",
+            "Product"
+          ],
+          "title": "Vice President of Data Science Product Madness and Aristocrat Digital",
+          "seniority": "Vice President",
+          "raw": "VP of Data Science Product Madness & Aristocrat Digital"
+        },
+        "social_link": "https://www.linkedin.com/in/michael-leznik-1a103a6",
+        "emails": [
+          {
+            "address": "...@productmadness.com",
+            "label": "work"
+          }
+        ],
+        "phones": [],
+        "metadata": {
+          "score": 6.909402,
+          "company_lid": 1910914
+        },
+        "location": {
+          "continent": "Europe",
+          "country": "United Kingdom",
+          "country_iso2": "GB"
+        },
+        "position": 18,
+        "contactId": "55b82382-5b91-11ed-9a12-6eab0417871f",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": false,
+        "isShown": false
+      },
+      {
+        "id": "49050987-47246",
+        "name": {
+          "first": "Kate",
+          "last": "Watson",
+          "full": "Kate Watson"
+        },
+        "job_title": {
+          "department": ["Human Resources", "General Management"],
+          "title": "Associate Human Resources Business Partner",
+          "seniority": "Executive",
+          "raw": "Associate HR Business Partner"
+        },
+        "social_link": "https://www.linkedin.com/in/kate-watson-cipd-12008679",
+        "emails": [
+          {
+            "address": "...@naturalmotion.com",
+            "label": "work"
+          }
+        ],
+        "phones": [
+          {
+            "number": "+44 783...",
+            "country_code": 44
+          },
+          {
+            "number": "+44 747...",
+            "country_code": 44
+          }
+        ],
+        "metadata": {
+          "score": 6.90744,
+          "company_lid": 47246
+        },
+        "location": {
+          "continent": "Europe",
+          "country": "Ireland",
+          "country_iso2": "IE"
+        },
+        "position": 19,
+        "contactId": "55b82383-5b91-11ed-ae23-9f9560a3e67e",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": false,
+        "isShown": false
+      },
+      {
+        "id": "56874751-2989982",
+        "name": {
+          "first": "Onur",
+          "last": "Baylan",
+          "full": "Onur Baylan"
+        },
+        "job_title": {
+          "department": ["Finance", "General Management"],
+          "title": "Chief Financial Officer",
+          "seniority": "Executive",
+          "raw": "CFO"
+        },
+        "social_link": "https://www.linkedin.com/in/onur-baylan-89457417",
+        "emails": [
+          {
+            "address": "...@gram.gs",
+            "label": "work"
+          }
+        ],
+        "phones": [
+          {
+            "number": "+44 753...",
+            "country_code": 44
+          }
+        ],
+        "metadata": {
+          "score": 6.883402,
+          "company_lid": 2989982
+        },
+        "location": {
+          "continent": "Europe",
+          "country": "United Kingdom",
+          "country_iso2": "GB"
+        },
+        "position": 20,
+        "contactId": "55b82384-5b91-11ed-b809-f0b84388585d",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": false,
+        "isShown": false
+      },
+      {
+        "id": "104487921-10521722",
+        "name": {
+          "first": "",
+          "last": "",
+          "full": ""
+        },
+        "job_title": {
+          "department": ["General Management"],
+          "title": "Founder and Chief Executive Officer",
+          "seniority": "Executive",
+          "raw": "Founder and CEO"
+        },
+        "social_link": "",
+        "emails": [
+          {
+            "address": "...@g2esports.com",
+            "label": "work"
+          }
+        ],
+        "phones": [
+          {
+            "number": "+34 662...",
+            "country_code": 34
+          },
+          {
+            "number": "+1 424-...",
+            "country_code": 1
+          }
+        ],
+        "metadata": {
+          "score": 6.8274016,
+          "company_lid": 10521722
+        },
+        "location": {
+          "continent": "Europe",
+          "country": "Germany",
+          "country_iso2": "DE"
+        },
+        "position": 21,
+        "contactId": "55b82385-5b91-11ed-ba5f-39306ebdbeb8",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": true,
+        "isShown": false
+      },
+      {
+        "id": "117653743-1298213",
+        "name": {
+          "first": "Daniel",
+          "last": "Clough",
+          "full": "Daniel Clough"
+        },
+        "job_title": {
+          "department": ["General Management"],
+          "title": "Co - Chief Executive Officer",
+          "seniority": "Executive",
+          "raw": "Co-CEO"
+        },
+        "social_link": "https://www.linkedin.com/in/danielclough",
+        "emails": [
+          {
+            "address": "...@bossastudios.com",
+            "label": "work"
+          },
+          {
+            "address": "...@gmail.com",
+            "label": "private"
+          }
+        ],
+        "phones": [
+          {
+            "number": "+44 788...",
+            "country_code": 44
+          }
+        ],
+        "metadata": {
+          "score": 6.8274016,
+          "company_lid": 1298213
+        },
+        "location": {
+          "continent": "Europe",
+          "country": "United Kingdom",
+          "country_iso2": "GB"
+        },
+        "position": 22,
+        "contactId": "55b82386-5b91-11ed-8cc6-2ef00810e4f1",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": false,
+        "isShown": false
+      },
+      {
+        "id": "40513357-31150",
+        "name": {
+          "first": "",
+          "last": "",
+          "full": ""
+        },
+        "job_title": {
+          "department": ["General Management"],
+          "title": "Owner",
+          "seniority": "Executive",
+          "raw": "Owner"
+        },
+        "social_link": "",
+        "emails": [
+          {
+            "address": "...@deepmedia.com",
+            "label": "work"
+          },
+          {
+            "address": "...@aol.com",
+            "label": "private"
+          }
+        ],
+        "phones": [
+          {
+            "number": "+1 615-...",
+            "country_code": 1
+          },
+          {
+            "number": "+1 615-...",
+            "country_code": 1
+          }
+        ],
+        "metadata": {
+          "score": 6.8274016,
+          "company_lid": 31150
+        },
+        "location": {
+          "continent": "North America",
+          "country": "United States",
+          "country_iso2": "US"
+        },
+        "position": 23,
+        "contactId": "55b82387-5b91-11ed-a7d6-3005976dace5",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": true,
+        "isShown": false
+      },
+      {
+        "id": "111338266-501010",
+        "name": {
+          "first": "David",
+          "last": "Braben",
+          "full": "David Braben"
+        },
+        "job_title": {
+          "department": ["General Management"],
+          "title": "Chief Executive Officer and Founder",
+          "seniority": "Executive",
+          "raw": "chief executive officer and founder"
+        },
+        "social_link": "https://www.linkedin.com/in/david-braben-487b365",
+        "emails": [
+          {
+            "address": "...@frontier.co.uk",
+            "label": "work"
+          },
+          {
+            "address": "...@frontier.co.uk",
+            "label": "work"
+          }
+        ],
+        "phones": [
+          {
+            "number": "+44 777...",
+            "country_code": 44
+          },
+          {
+            "number": "+44 122...",
+            "country_code": 44
+          }
+        ],
+        "metadata": {
+          "score": 6.8274016,
+          "company_lid": 501010
+        },
+        "location": {
+          "continent": "Europe",
+          "country": "United Kingdom",
+          "country_iso2": "GB"
+        },
+        "position": 24,
+        "contactId": "55b82388-5b91-11ed-997d-e8f9958d0fc4",
+        "uniqueSearchId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+        "isBlockedForShow": false,
+        "isShown": false
+      }
+    ],
+    "unique_companies": {
+      "7210": {
+        "date": {
+          "created": "2022-09-11",
+          "updated": "2022-08-18"
+        },
+        "logo_url": "https://logo.lusha.co/d/company_7210_logo.jpg",
+        "linkedin_followers": 15139,
+        "homepage_url": "http://www.climaxstudios.com",
+        "description": "Climax was founded over 30 years ago and is located in the coastal city of Portsmouth.  \nWe have an extensive history in developing all kinds of digital experiences across all formats, delivering entire games, through to co-development and technological problem solving and we’ve won many awards along the way. \nWe're currently developing AAA console games and looking for developers to join us.\nClimax is a Keywords Studio\n",
+        "technographic": "#Wordpress 4.9|#Google Analytics|#Google Analytics Dashboard for WordPress|#Wordpress 5.1|#SPF|#Google Tag Manager|#Yoast WordPress SEO Plugin|#WP Super Cache|#WordPress 3.6|#ThemePunch|#WordPress 5.7|#WP Google Maps|#Contact Form 7|#GoDaddy|#GoDaddy DNS|#LayerSlider Responsive|#Pingback Support|#Google Apps for Business|#WordPress|#WordPress 5.4|#DoubleClick.Net|#Global Site Tag|#GStatic Google Static Content|#Wordpress 3.9|#Facebook Sharer|#Wordpress Plugins|#Wordpress Monthly Activity|#ThemeFusion|#jPlayer|#YouTube IFrame Upload|#Google Maps API|#Autoptimize|#Cookie Notice|#Reddit|#Sitelinks Search Box|#Pinterest|#BootstrapCDN|#Google Universal Analytics|#Twitter Follow Button|#US Privacy User Signal Mechanism|#Apple Whitelist|#Google Analytics Classic|#YouTube IFrame API|#Slider Revolution|#Workable|#The Events Calendar|#bbPress|#Google Maps|#WordPress 6.0|#Easy Fancybox|#Custom Facebook Feed|#Dedicated Hosting|#Wordpress 4.8|#Yoast SEO Premium|#Font Awesome|#WordPress 3.8|#Yoast Plugins|#YouTube|#WordPress 5.2|#ShortPixel Image Optimizer|#Visa|#Twitter CDN|#WordPress Weekly Activity|#WordPress 5.3|#RSS|#Twemoji|#Google Plus One Platform|",
+        "industry_clustering": {
+          "website": "www.climaxstudios.com",
+          "primary_industry": "Computer Games",
+          "name": "Climax Studios",
+          "company_identifier": "7210",
+          "linkedin": "https://www.linkedin.com/company/climax",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Computer Games"
+            }
+          ],
+          "tags": [
+            "game development",
+            "indie",
+            "aaa",
+            "console",
+            "technical solutions"
+          ]
+        },
+        "revenue_range": {
+          "min": 10000000,
+          "string": "$10,000,000 to $50,000,000",
+          "max": 50000000
+        },
+        "company_id": "climax",
+        "fqdn": "www.climaxstudios.com",
+        "social": {
+          "linkedin": "https://www.linkedin.com/company/climax"
+        },
+        "founded": "1988",
+        "domains": {
+          "email": "climaxstudios.com",
+          "homepage": "climaxstudios.com"
+        },
+        "industry_tags": [
+          "Aaa",
+          "Game Development",
+          "Indie",
+          "Console",
+          "Technical Solutions"
+        ],
+        "company_lid": 7210,
+        "name": "Climax Studios",
+        "industry_primary_group_details": {
+          "hierarchy": [
+            "Technology, Information and Media",
+            "Technology and Information",
+            "Software Development",
+            "Computer Games"
+          ]
+        },
+        "company_size": {
+          "min": 51,
+          "max": 200,
+          "employees_in_linkedin": 230
+        },
+        "industry_primary_group": "Computer Games",
+        "industry_category_groups": [
+          "game development",
+          "indie",
+          "aaa",
+          "console",
+          "technical solutions"
+        ],
+        "location": {
+          "continent": "Europe",
+          "country": "United Kingdom",
+          "city": "Portsmouth",
+          "raw_location": "Gunwharf Quays, Portsmouth, Hampshire PO1 3TR, GB",
+          "country_iso2": "GB",
+          "location_coordinates": [-1.09125, 50.79899]
+        },
+        "isFavorite": false
+      },
+      "17653": {
+        "date": {
+          "created": "2022-09-11",
+          "updated": "2022-08-18"
+        },
+        "logo_url": "https://logo.lusha.co/d/company_17653_logo.jpg",
+        "homepage_url": "http://www.avalanchestudios.com",
+        "description": "Avalanche Studios Group is a leading interactive entertainment company, offering a rich portfolio of games from its divisions Avalanche Studios, Expansive Worlds, and Systemic Reaction, including the Just Cause franchise, Rage 2, theHunter: Call of the Wild and Generation Zero. \n\nAvalanche Studios Group is committed to being a truly inclusive and sustainable workplace that creates innovative games through the power of our people’s creativity. All of Avalanche Studios Group games are developed using the proprietary Apex engine, enabling vast open worlds with endless creative possibilities. \n\nLearn more at www.avalanchestudios.com/",
+        "industry_clustering": {
+          "website": "www.avalanchestudios.com",
+          "primary_industry": "Computer Games",
+          "name": "Avalanche Studios Group",
+          "company_identifier": "17653",
+          "linkedin": "https://www.linkedin.com/company/avalanchestudiosgroup",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Computer Games"
+            }
+          ],
+          "tags": [
+            "cross-media ip development and management",
+            "art direction",
+            "business development",
+            "game development",
+            "sound direction",
+            "game design",
+            "open world games",
+            "graphics technology"
+          ]
+        },
+        "revenue_range": {
+          "min": 10000000,
+          "string": "$10,000,000 to $50,000,000",
+          "max": 50000000
+        },
+        "company_id": "avalanchestudiosgroup",
+        "fqdn": "www.avalanchestudios.com",
+        "social": {
+          "linkedin": "https://www.linkedin.com/company/avalanchestudiosgroup"
+        },
+        "founded": "2003",
+        "domains": {
+          "homepage": "avalanchestudios.com"
+        },
+        "industry_tags": [
+          "Game Design",
+          "Game Development",
+          "Graphics Technology",
+          "Open World Games",
+          "Art Direction",
+          "Business Development",
+          "Cross-media Ip Development And Management",
+          "Sound Direction"
+        ],
+        "company_lid": 17653,
+        "name": "Avalanche Studios Group",
+        "industry_primary_group_details": {
+          "hierarchy": [
+            "Technology, Information and Media",
+            "Technology and Information",
+            "Software Development",
+            "Computer Games"
+          ]
+        },
+        "company_size": {
+          "min": 201,
+          "max": 500,
+          "employees_in_linkedin": 524
+        },
+        "industry_primary_group": "Computer Games",
+        "industry_category_groups": [
+          "cross-media ip development and management",
+          "art direction",
+          "business development",
+          "game development",
+          "sound direction",
+          "game design",
+          "open world games",
+          "graphics technology"
+        ],
+        "location": {
+          "continent": "Europe",
+          "country": "Sweden",
+          "city": "Stockholm",
+          "street": "Västgötagatan 5",
+          "raw_location": "Västgötagatan 5, Stockholm, SE",
+          "country_iso2": "SE",
+          "location_coordinates": [18.06871, 59.32938]
+        },
+        "isFavorite": false
+      },
+      "31075": {
+        "date": {
+          "created": "2022-09-11",
+          "updated": "2022-08-17"
+        },
+        "logo_url": "https://logo.lusha.co/d/company_31075_logo.jpg",
+        "linkedin_followers": 34660,
+        "homepage_url": "http://www.jagex.com/en-GB/careers",
+        "description": "A leader in creating deep and engaging experiences on PC and mobile, Jagex was founded in 2001 and is today one of the UK’s biggest and most respected video game developers and publishers.\n\nFamed for its flagship MMOs RuneScape and Old School RuneScape, Jagex has welcomed more than 280million player accounts to its world and created a $1bn lifetime franchise revenue. Today the RuneScape franchise exists beyond running games in live operations; our titles are living games that connect and inspire millions of players, with content and experiences both inside and outside of inexhaustible game worlds. \n\nBoth RuneScape and Old School RuneScape, on PC and mobile, offer ever-evolving, highly-active worlds and our community-focused development ethos empowers players to have a real say in how each game is shaped. \n\nJagex is expanding and extending its portfolio with fresh franchise titles, new IP and, in 2018 launched Jagex Partners, delivering third-party publishing and operational services exclusively for the living games of the future. Jagex employs more than 440 people at its Cambridge headquarters and is on the hunt for talented people to work across the business to help the company to achieve yet another year of record growth and player satisfaction.",
+        "technographic": "#Cookiebot|#Amazon Elastic Load Balancing Sticky Session|#Google Tag Manager|#Google Webmaster|#Amazon CloudFront|#Lever|#Contentful|",
+        "industry_clustering": {
+          "website": "www.jagex.com",
+          "primary_industry": "Computer Games",
+          "name": "Jagex",
+          "company_identifier": "31075",
+          "linkedin": "https://www.linkedin.com/company/jagex",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Computer Games"
+            }
+          ],
+          "tags": [
+            "online gaming",
+            "internet technology",
+            "mmos",
+            "casual gaming"
+          ]
+        },
+        "revenue_range": {
+          "min": 10000000,
+          "string": "$10,000,000 to $50,000,000",
+          "max": 50000000
+        },
+        "company_id": "jagex",
+        "fqdn": "www.jagex.com",
+        "social": {
+          "crunchbase": "https://www.crunchbase.com/organization/jagex",
+          "linkedin": "https://www.linkedin.com/company/jagex"
+        },
+        "founded": "2001",
+        "domains": {
+          "email": "jagex.com",
+          "homepage": "jagex.com"
+        },
+        "industry_tags": [
+          "Casual Gaming",
+          "Online Gaming",
+          "Internet Technology",
+          "Mmos"
+        ],
+        "company_lid": 31075,
+        "name": "Jagex",
+        "industry_primary_group_details": {
+          "hierarchy": [
+            "Technology, Information and Media",
+            "Technology and Information",
+            "Software Development",
+            "Computer Games"
+          ]
+        },
+        "company_size": {
+          "min": 201,
+          "max": 500,
+          "employees_in_linkedin": 553
+        },
+        "industry_primary_group": "Computer Games",
+        "industry_category_groups": [
+          "online gaming",
+          "internet technology",
+          "mmos",
+          "casual gaming"
+        ],
+        "location": {
+          "continent": "Europe",
+          "country": "United Kingdom",
+          "city": "Cambridge",
+          "street": "Cambridge Science Park",
+          "raw_location": "Jagex Ltd, Cambridge Science Park, Cambridge, Cambridgeshire CB4 0WA, GB",
+          "country_iso2": "GB",
+          "location_coordinates": [0.11667, 52.2]
+        },
+        "isFavorite": false
+      },
+      "31150": {
+        "date": {
+          "created": "2022-09-11",
+          "updated": "2022-08-18"
+        },
+        "logo_url": "https://logo.lusha.co/d/company_31150_logo.jpg",
+        "homepage_url": "http://www.kochmedia.com",
+        "description": "About Koch Media\n\nKoch Media is a global developer, publisher and distributor of computer and videogames, gaming hardware and merchandise.\n   \nThe company's publishing activities, marketing and distribution extend throughout Europe, America and Australia. Koch Media has more than 25 years of experience in the digital media business and has risen to become a leading games publishing partner. Koch Media runs a multi-label strategy with fully owned content providers, including the labels Deep Silver, Milestone and Ravenscourt which publish games for consoles and PC across all physical and digital channels.\n\nKoch Media has formed long-term multi-national publishing collaborations with numerous game publishers including Bethesda, Capcom, Codemasters, Konami, Koei Tecmo, NC Soft, Sega, Square Enix, Warner and many others. With its parent company in Höfen, Austria and the Publishing HQ in Munich, Germany, Koch Media owns local publishing companies in Germany, UK, France, Spain, Italy, Sweden, the Netherlands, Austria, Switzerland, Poland, Australia and the United States.\n \nThe Koch Media group owns six game development studios: Deep Silver Volition (Champaign, IL / USA), Deep Silver Dambuster Studios (Nottingham / UK), Deep Silver Fishlabs (Hamburg / Germany), Warhorse Studios (Prague / Czech Republic), Milestone (Milan / Italy), Vertigo Games (Rotterdam / Netherlands) and Voxler (Paris / France). Additionally Koch Media collaborates with numerous independent development studios around the world.   \n \nKoch Media also owns Gaya Entertainment, a leading games merchandise company in Langenfeld, Germany and the Quality Assurance Facility in Olomuc, Czech Republic. Furthermore, with Koch Films the Koch Media Group runs an established film business. Koch Films is a European independent film distributor with business primarily in Germany, Switzerland, Austria and Italy as a cinema, TV, online and Home Entertainment distributor. \n \nKoch Media is an Embracer Group company. ",
+        "technographic": "#Wordpress 4.9|#Google Analytics|#Wordpress 5.1|#SPF|#Google Tag Manager|#Yoast WordPress SEO Plugin|#Facebook Conversion Tracking|#Wordpress 4.5|#TYPO3|#PDF Embedder|#Zendesk|#WordPress 5.7|#Contact Form 7|#Matomo|#NetNames DNS|#Facebook Custom Audiences|#WordPress|#GetResponse SPF|#Microsoft Ajax Content Delivery Network|#WordPress 5.4|#DoubleClick.Net|#Global Site Tag|#Google Postini Services|#Twitter Timeline|#GStatic Google Static Content|#Google|#reCAPTCHA v2|#Akamai|#WordPress 5.6|#Wordpress Plugins|#WordPress 5.5|#DMARC Analyzer|#jsDelivr|#Hetzner|#Wordpress Monthly Activity|#Online.net|#Sitelinks Search Box|#rexx systems|#BootstrapCDN|#Facebook Signal|#Google Universal Analytics|#Twitter Follow Button|#Dropbox Business|#Microsoft Azure DNS|#NetBenefit|#Apple Whitelist|#WordPress 5.8|#15 to 19 ccTLD Redirects|#OpenCMS|#Google Analytics Classic|#Microsoft Exchange Online|#10 to 14 ccTLD Redirects|#Sendgrid|#Google Analytics 4|#DMARC|#CDN JS|#Mandrill|#Wordpress 4.7|#United Domains|#Google Cloud Global Multi-Region|#Google Adsense|#Cookiebot|#Cloudflare Hosting|#Cloudflare JS|#URIports|#reCAPTCHA v3|#Facebook CDN|#Dmarcian|#Atlassian Cloud|#Google Conversion Tracking|#Yoast SEO Premium|#Facebook Pixel|#Google Remarketing|#Yoast Plugins|#AddThis|#WordPress 5.9|#Font Awesome|#Cookie Consent by Osano|#Google Cloud|#DocuSign|#Corporation Service Company|#Facebook Login|#YouTube|#WordPress 5.2|#DoubleClick Bid Manager|#Google Cloud Belgium|#Dublin Core|#WordPress 5.3|#RSS|#Office 365 Mail|#Ascio|#Cart Functionality|#reCAPTCHA|#Silktide Cookie Consent|#Twemoji|#qTranslate|#Colt|#Google Cloud Frankfurt|#Facebook Like Box|",
+        "industry_clustering": {
+          "website": "www.kochmedia.com",
+          "primary_industry": "Computer Games",
+          "name": "Koch Media GmbH",
+          "company_identifier": "31150",
+          "linkedin": "https://www.linkedin.com/company/koch-media-",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Computer Games"
+            },
+            {
+              "value": 1,
+              "key": "Oil and Gas"
+            }
+          ],
+          "tags": [
+            "accessories",
+            "publisher",
+            "games publishing",
+            "video on demand",
+            "pc games",
+            "home entertainment",
+            "entertainment",
+            "film distribution",
+            "mobile games",
+            "software",
+            "distributor",
+            "video games"
+          ]
+        },
+        "revenue_range": {
+          "min": 50000000,
+          "string": "$50,000,000 to $100,000,000",
+          "max": 100000000
+        },
+        "company_id": "koch-media-",
+        "fqdn": "www.kochmedia.com",
+        "social": {
+          "linkedin": "https://www.linkedin.com/company/koch-media-"
+        },
+        "domains": {
+          "email": "kochmedia.com",
+          "homepage": "kochmedia.com"
+        },
+        "industry_tags": [
+          "Software",
+          "Video Games",
+          "Video On Demand",
+          "Entertainment",
+          "Accessories",
+          "Distributor",
+          "Pc Games",
+          "Mobile Games",
+          "Publisher",
+          "Home Entertainment",
+          "Games Publishing",
+          "Film Distribution"
+        ],
+        "company_lid": 31150,
+        "name": "Koch Media GmbH",
+        "industry_primary_group_details": {
+          "hierarchy": ["Entertainment Providers"],
+          "naics": [
+            {
+              "naics_label": "Arts, Entertainment, and Recreation",
+              "naics": 71
+            }
+          ]
+        },
+        "company_size": {
+          "min": 1001,
+          "max": 5000,
+          "employees_in_linkedin": 332
+        },
+        "industry_primary_group": "Computer Games",
+        "industry_category_groups": [
+          "accessories",
+          "publisher",
+          "games publishing",
+          "video on demand",
+          "pc games",
+          "home entertainment",
+          "entertainment",
+          "film distribution",
+          "mobile games",
+          "software",
+          "distributor",
+          "video games"
+        ],
+        "location": {
+          "continent": "Europe",
+          "country": "Germany",
+          "street": "Lochhamer Str. 9",
+          "raw_location": "Lochhamer Str. 9, Planegg / Munich, DE",
+          "country_iso2": "DE"
+        },
+        "isFavorite": false
+      },
+      "47246": {
+        "date": {
+          "created": "2022-09-11",
+          "updated": "2022-08-18"
+        },
+        "logo_url": "https://logo.lusha.co/d/company_47246_logo.jpg",
+        "linkedin_followers": 12922,
+        "homepage_url": "http://www.naturalmotion.com",
+        "description": "At NaturalMotion we make games that wow people. We take pride in making titles that reach a large audience and in creating communities that last. Founded in 2001, we joined the Zynga family in 2014. Our hit games include CSR Racing 2, Dawn of Titans and following a multi-year deal with Disney, we are now developing all-new Star Wars mobile games. . \n\nNaturalMotion London was established in 2012 to develop groundbreaking social games on mobile platforms.  The studio is working on innovative projects with the aim of redefining mobile gaming.\n\nBossAlien, a NaturalMotion studio, is based in the heart of Brighton. The studio was founded in 2011 as a collective of video game professionals with backgrounds spanning top franchises across mobile, console, and PC. The team creates genre defining games. Their mission is to create games for everyone and enrich lives through play. \n\nIn 2018, 2019 & 2020 NaturalMotion studios were listed as one of the Best Places To Work in the UK video games industry, at the Gamesindustry.biz Awards.",
+        "industry_clustering": {
+          "website": "www.naturalmotion.com",
+          "primary_industry": "Mobile Gaming Apps",
+          "name": "NaturalMotion",
+          "company_identifier": "47246",
+          "linkedin": "https://www.linkedin.com/company/naturalmotion",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Mobile Gaming Apps"
+            },
+            {
+              "value": 1,
+              "key": "Computer Games"
+            }
+          ],
+          "tags": ["mobile games games technology"]
+        },
+        "revenue_range": {
+          "min": 10000000,
+          "string": "$10,000,000 to $50,000,000",
+          "max": 50000000
+        },
+        "company_id": "naturalmotion",
+        "fqdn": "www.naturalmotion.com",
+        "social": {
+          "crunchbase": "https://www.crunchbase.com/organization/naturalmotion",
+          "linkedin": "https://www.linkedin.com/company/naturalmotion"
+        },
+        "founded": "2001",
+        "domains": {
+          "email": "naturalmotion.com",
+          "homepage": "naturalmotion.com"
+        },
+        "industry_tags": ["Mobile Games Games Technology"],
+        "company_lid": 47246,
+        "name": "NaturalMotion",
+        "industry_primary_group_details": {
+          "hierarchy": [
+            "Technology, Information and Media",
+            "Technology and Information",
+            "Software Development",
+            "Computer Games"
+          ]
+        },
+        "company_size": {
+          "min": 201,
+          "max": 500,
+          "employees_in_linkedin": 226
+        },
+        "industry_primary_group": "Mobile Gaming Apps",
+        "industry_category_groups": ["mobile games games technology"],
+        "location": {
+          "continent": "Europe",
+          "country": "United Kingdom",
+          "city": "London",
+          "street": "6 Agar Street",
+          "raw_location": "NaturalMotion Games, 6 Agar Street, London, London WC2N 4HN, GB",
+          "country_iso2": "GB",
+          "location_coordinates": [-0.12574, 51.50853]
+        },
+        "isFavorite": false
+      },
+      "55284": {
+        "date": {
+          "created": "2022-09-11",
+          "updated": "2022-08-18"
+        },
+        "logo_url": "https://logo.lusha.co/d/company_55284_logo.jpg",
+        "homepage_url": "http://www.focus-entmt.com/",
+        "description": "Focus Entertainment is one of Europe’s leading video game publishers and developers.\n\nOur goal is to offer players worldwide unique experiences. Our editorial policy stands out through innovative ideas which transcend the boundaries of video games. With 20 years of expertise and success we bring talented people and video game creators together, offering high-quality services and publishing expertise. \n\nWe support innovative projects, without compromise on quality, investing in projects ranging from the development of a title to total integration of a studio. Our partners join a creator of successful franchises, such as A Plague Tale, Farming Simulator, and SnowRunner, bringing them global standing.",
+        "technographic": "#Wordpress 4.9|#Google Analytics|#Cloudflare|#SPF|#FeedBurner|#Google Tag Manager|#Facebook Conversion Tracking|#Unified Layer|#Zendesk|#Hostgator Mail|#RawGit|#Google Conversion Linker|#OVH|#DNSSEC|#Facebook Custom Audiences|#Twitter Analytics|#WordPress|#TikTok Embed|#DoubleClick.Net|#Global Site Tag|#WP Engine|#GStatic Google Static Content|#Google|#Google Floodlight Sales|#Reddit Ads|#OVH Mail|#Reddit Conversion Tracking|#Cloudflare CDN|#Facebook Signal|#Google Universal Analytics|#NodeBB|#US Privacy User Signal Mechanism|#Google Analytics 4|#CDN JS|#Google AdWords Conversion|#WordPress Grid|#Google Adsense|#Cloudflare Hosting|#Accelerated Mobile Pages|#BlueHost DNS|#OVH Registrar|#Twitter Website Universal Tag|#Google Floodlight Counter|#Cloudflare JS|#OVH DNS|#StatCounter|#Google Maps|#Facebook CDN|#Google Conversion Tracking|#Google Remarketing|#Facebook Pixel|#Font Awesome|#Google Cloud|#DoubleClick Floodlight|#TikTok Conversion Tracking Pixel|#Twitter Ads|#Twitter Conversion Tracking|#YouTube|#Scalefast|#DoubleClick Bid Manager|#YouTube Privacy Enchanced|#RSS|#Digital Ocean|",
+        "industry_clustering": {
+          "website": "www.focus-entmt.com",
+          "primary_industry": "Computer Games",
+          "name": "Focus Entertainment",
+          "company_identifier": "55284",
+          "linkedin": "https://www.linkedin.com/company/focusentertainment",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Computer Games"
+            }
+          ],
+          "tags": [
+            "cloud gaming",
+            "video game production",
+            "digital games",
+            "social media",
+            "retail games",
+            "pc games",
+            "creativity",
+            "video games",
+            "video game marketing",
+            "community management",
+            "console games",
+            "video game distribution",
+            "video game publishing"
+          ]
+        },
+        "revenue_range": {
+          "min": 10000000,
+          "string": "$10,000,000 to $50,000,000",
+          "max": 50000000
+        },
+        "company_id": "focusentertainment",
+        "fqdn": "www.focus-entmt.com",
+        "social": {
+          "crunchbase": "https://www.crunchbase.com/organization/focus-home-interactive",
+          "linkedin": "https://fr.linkedin.com/company/focusentertainment"
+        },
+        "founded": "1996",
+        "domains": {
+          "email": "focus-home.com",
+          "homepage": "focus-entmt.com"
+        },
+        "industry_tags": [
+          "Digital Games",
+          "Video Games",
+          "Video Game Distribution",
+          "Console Games",
+          "Community Management",
+          "Cloud Gaming",
+          "Video Game Production",
+          "Pc Games",
+          "Video Game Publishing",
+          "Social Media",
+          "Retail Games",
+          "Video Game Marketing",
+          "Creativity"
+        ],
+        "company_lid": 55284,
+        "name": "Focus Entertainment",
+        "industry_primary_group_details": {
+          "hierarchy": [
+            "Technology, Information and Media",
+            "Technology and Information",
+            "Software Development",
+            "Computer Games"
+          ]
+        },
+        "company_size": {
+          "min": 51,
+          "max": 200,
+          "employees_in_linkedin": 214
+        },
+        "industry_primary_group": "Computer Games",
+        "industry_category_groups": [
+          "cloud gaming",
+          "video game production",
+          "digital games",
+          "social media",
+          "retail games",
+          "pc games",
+          "creativity",
+          "video games",
+          "video game marketing",
+          "community management",
+          "console games",
+          "video game distribution",
+          "video game publishing"
+        ],
+        "location": {
+          "continent": "Europe",
+          "country": "France",
+          "city": "Paris",
+          "raw_location": "11 rue de cambrai, Paris, FR",
+          "country_iso2": "FR",
+          "location_coordinates": [2.3488, 48.85341]
+        },
+        "isFavorite": false
+      },
+      "68536": {
+        "date": {
+          "created": "2022-09-11",
+          "updated": "2022-08-18"
+        },
+        "logo_url": "https://logo.lusha.co/d/company_68536_logo.jpg",
+        "linkedin_followers": 11016,
+        "homepage_url": "http://www.hotheadgames.com",
+        "description": "Hothead Games is recognized as one of Canada's 50 Best Workplaces, BC's Best Workplaces, Canada's Top Technology Workplaces, Canada's Best Workplaces for Women, and Canada's Best Workplaces for Inclusion. We create our own concepts, we develop the games from scratch, and then we publish them. Our success comes from hiring the smartest and talented people so that they can do their magic!\n\nOur goal is to continue to keep winning over loyal fans while building more platform-pushing technology and delivering on big entertainment for little screens everywhere! We rely heavily on data and analytics to help guide our work, making certain we are doing the best for our players and studio. We move fast, we do amazing work and we have a lot of fun working together.\n\nJoin us on our adventure to make the world’s most amazing mobile games!\n",
+        "technographic": "#Wordpress 4.9|#Google Analytics|#Ultimate Software|#SPF|#Stroeer Reseller|#Yoast WordPress SEO Plugin|#Yahoo Reseller|#WordPress 2.3|#Google Webmaster|#Amazon Route 53|#Facebook Direct|#Between Digital Reseller|#OneTag Reseller|#Telaria Reseller|#Google Cloud Montreal|#Sonobi Reseller|#Brave Reseller|#Gravity Forms|#PubMatic Reseller|#Rocket Chat|#NextGEN Gallery|#Somoaudience Reseller|#Pingback Support|#Google Apps for Business|#LKQD Reseller|#WordPress|#WP UI|#AdMan Reseller|#Gossamer Threads|#Converstand Media Reseller|#DoubleClick.Net|#Smaato Direct|#IndexExchange Reseller|#WP Engine|#FreeWheel Reseller|#Yieldlab Reseller|#Smart App Banner|#Adbutler|#GStatic Google Static Content|#Google|#PubMatic Direct|#Undertone Reseller|#Yieldmo Reseller|#Tremor Video Reseller|#SmartAdServer Reseller|#Facebook Sharer|#Wordpress Plugins|#jsDelivr|#Openads/OpenX|#AOL Reseller|#Wordpress Monthly Activity|#Mars Media Group Reseller|#YouTube IFrame Upload|#Facebook Reseller|#Triple Lift Reseller|#ContextWeb Reseller|#Sitelinks Search Box|#Amazon Elastic Load Balancing|#BootstrapCDN|#Google Universal Analytics|#Microsoft Azure DNS|#Knowledge Base for WordPress|#Admixer Reseller|#AppNexus Reseller|#Gamoshi Direct|#Apple Whitelist|#Gamoshi Reseller|#HelpShift|#Improve Digital Reseller|#Google Analytics Classic|#YouTube IFrame API|#The MediaGrid Reseller|#DMARC|#Smaato Reseller|#Discourse|#RhythmOne Reseller|#Amazon Oregon Region|#Amazon ELB North Virginia|#Amazon|#SpotXChange Reseller|#LoopMe Reseller|#Gamma SSP Reseller|#ucfunnel Reseller|#OpenStreetMap|#Atlassian Cloud|#Adform Reseller|#Browse Happy|#Smartstream Reseller|#Dedicated Hosting|#Yoast SEO Premium|#Discourse Hosted|#Font Awesome|#Yoast Plugins|#Amazon Virginia Region|#Google Cloud|#Wordpress 4.3|#Mint|#OpenX Reseller|#Criteo Reseller|#Smartclip Reseller|#Less than 5 Ads.txt|#Undertone Direct|#RubiconProject Reseller|#RSS|#Google Direct|#Cart Functionality|#reCAPTCHA|#Less than 5 DIRECT Ads.txt|#Fyber Direct|#Google Reseller|#Twemoji|#Google Calendar|#Link Share|#Hurricane Electric|",
+        "industry_clustering": {
+          "website": "www.hotheadgames.com",
+          "primary_industry": "Computer Games",
+          "name": "Hothead Games",
+          "company_identifier": "68536",
+          "linkedin": "https://www.linkedin.com/company/hothead-games",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Computer Games"
+            }
+          ],
+          "tags": ["mobile game developer"]
+        },
+        "revenue_range": {
+          "min": 10000000,
+          "string": "$10,000,000 to $50,000,000",
+          "max": 50000000
+        },
+        "company_id": "hothead-games",
+        "fqdn": "www.hotheadgames.com",
+        "social": {
+          "linkedin": "https://ca.linkedin.com/company/hothead-games"
+        },
+        "founded": "2006",
+        "domains": {
+          "email": "hotheadgames.com",
+          "homepage": "hotheadgames.com"
+        },
+        "industry_tags": ["Mobile Game Developer"],
+        "company_lid": 68536,
+        "name": "Hothead Games",
+        "industry_primary_group_details": {
+          "hierarchy": [
+            "Technology, Information and Media",
+            "Technology and Information",
+            "Software Development",
+            "Computer Games"
+          ]
+        },
+        "company_size": {
+          "min": 51,
+          "max": 200,
+          "employees_in_linkedin": 64
+        },
+        "industry_primary_group": "Computer Games",
+        "industry_category_groups": ["mobile game developer"],
+        "location": {
+          "continent": "North America",
+          "country": "Canada",
+          "city": "Vancouver",
+          "street": "1555 West Pender Street",
+          "raw_location": "1555 West Pender Street, Vancouver, BC V6G 2T1, CA",
+          "country_iso2": "CA",
+          "location_coordinates": [-123.11934, 49.24966]
+        },
+        "isFavorite": false
+      },
+      "80970": {
+        "date": {
+          "created": "2022-09-11",
+          "updated": "2022-08-18"
+        },
+        "company_id": "demonware",
+        "fqdn": "www.demonware.net",
+        "social": {
+          "linkedin": "https://ie.linkedin.com/company/demonware"
+        },
+        "logo_url": "https://logo.lusha.co/d/company_80970_logo.jpg",
+        "homepage_url": "http://www.demonware.net",
+        "description": "Demonware creates and provides the online services behind some of the world’s most popular video game franchises, including Call of Duty and Skylanders.\n\nAt Demonware we believe customer problems are our own, sharing wisdom breeds success, and everyone deserves respect.\n\nWe work smart, deliver on promises, and have fun doing it. \n\nDemonware has offices in both Dublin, Ireland and Vancouver, Canada and is a wholly-owned subsidiary of Activision Blizzard Inc.",
+        "domains": {
+          "email": "demonware.net",
+          "homepage": "demonware.net"
+        },
+        "industry_clustering": {
+          "website": "www.demonware.net",
+          "primary_industry": "Computer Games",
+          "name": "Demonware",
+          "company_identifier": "80970",
+          "linkedin": "https://www.linkedin.com/company/demonware",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Computer Games"
+            },
+            {
+              "value": 1,
+              "key": "Entertainment Providers"
+            }
+          ]
+        },
+        "revenue_range": {
+          "min": 10000000,
+          "string": "$10,000,000 to $50,000,000",
+          "max": 50000000
+        },
+        "company_lid": 80970,
+        "name": "Demonware",
+        "industry_primary_group_details": {
+          "hierarchy": [
+            "Technology, Information and Media",
+            "Technology and Information",
+            "Software Development",
+            "Computer Games"
+          ]
+        },
+        "company_size": {
+          "min": 51,
+          "max": 200,
+          "employees_in_linkedin": 238
+        },
+        "industry_primary_group": "Computer Games",
+        "location": {
+          "continent": "Europe",
+          "country": "Ireland",
+          "city": "Dublin",
+          "street": "Parnell St",
+          "raw_location": "5th Floor, King’s Inn House,Parnell St, Dublin, IE",
+          "country_iso2": "IE",
+          "location_coordinates": [-6.24889, 53.33306]
+        },
+        "isFavorite": false
+      },
+      "165622": {
+        "date": {
+          "created": "2022-09-11",
+          "updated": "2022-08-18"
+        },
+        "logo_url": "https://logo.lusha.co/d/company_165622_logo.jpg",
+        "linkedin_followers": 29881,
+        "homepage_url": "http://www.quanticdream.com",
+        "description": "QUANTIC DREAM was founded in 1997 and it has gained international recognition for its contribution to interactive narration and its fresh thinking on emotion in games. The studio is considered one of the leading motion capture studios, in particular for the creation of real-time 3D virtual actors performing with stunning realism. Over the last fourteen years we have developed proprietary technologies, including some very advanced tools and a unique approach to the production pipeline.\n\nQuantic Dream has been at the forefront of innovation in narrative, popularizing the genre of choice-dependent stories. The studio creates thought-provoking games like Fahrenheit (aka Indigo Prophecy in North America), Heavy Rain, Beyond: Two Souls, and more recently Detroit: Become Human. Their medium-defining titles showcase world-class talents including David Bowie, Elliot Page, Willem Dafoe, Hans Zimmer and Jesse Williams. Quantic Dream has developed proprietary technologies and original franchises since its creation, with the support of millions of gamers around the world. ",
+        "technographic": "#Google Analytics|#Google Tag Manager|#OSS CDN|#Yoast WordPress SEO Plugin|#Zooomy Apps|#Zopim|#tarteaucitron.js|#Shopify Geolocation|#Zendesk|#Tealium|#Dstillery|#Scandinavian Shipping|#Helixo|#Microdata for Google Shopping|#WordPress|#Facebook Like|#BunnyCDN General|#GStatic Google Static Content|#Order Limits by MinMaxify|#Facebook Sharer|#Apple Pay|#jsDelivr|#BlueKai|#Criteo|#Amazon Payments|#Cross Pixel Media|#Swym|#PayPal Button|#RUN Ads|#Google Maps API|#DemDex|#BlueKai DMP|#GDPR Consent Management Platform|#Microsoft Azure DNS|#Shopify Discounts|#Google Analytics Classic|#ShareThis|#Microsoft Exchange Online|#CDN JS|#Tapad|#Zendesk Embeddables|#Cloudflare Rocket Loader|#Cloudflare Network Error Logging|#Cloudflare Hosting|#Shopify Custom Theme|#Cloudflare DNS|#Cloudflare JS|#OwnerIQ|#Bugsnag|#ShareThis CMP System|#Google Maps|#Shopify Conversions|#Preact|#MailJet|#Ships to Japan|#Carti.io|#Rocket Fuel|#Neustar AdAdvisor|#YouTube|#WordPress 5.2|#Yahoo Web Analytics|#Rapleaf|#Typekit|#RSS|#Office 365 Mail|#Shopify Euro|#Drupal|#reCAPTCHA|#Datalogix|#eXelate|#PayPal|#Gravatar Profiles|#Cloudflare|#UFE 2.0|#SPF|#MediaMath|#Google Webmaster|#Zotabox|#LiveIntent|#Langify|#OVH|#Kiwi Size Chart|#Marketo|#Ships to China|#Section Feed by Maestrooo|#DoubleClick.Net|#Global Site Tag|#Ikoula|#Microsoft Word|#Azure Edge|#Drawbridge|#Cloudflare CDN|#Sitelinks Search Box|#Kiwi Sizing|#BootstrapCDN|#Google Universal Analytics|#HelpShift|#US Privacy User Signal Mechanism|#Apple Whitelist|#The Trade Desk|#Yandex Verification|#comScore|#Cookiebot|#reCAPTCHA v3|#Amazon S3|#Shipping to over 200 Countries|#Shopify|#Atlassian Cloud|#Yoast SEO Premium|#Facebook Pixel|#WordPress 5.9|#Yoast Plugins|#Eyeota|#Google Maps for Work|#Aggregate Knowledge|#Signal|#AppNexus|#AOL-Time Warner Online Advertising|#Active Campaign|#Shopify Hosted|#GDPR CCPA iSenseLabs|#Lotame Crowd Control|#506|#Cart.js|#Twemoji|#CloudFront|",
+        "industry_clustering": {
+          "website": "www.quanticdream.com",
+          "primary_industry": "Computer Games",
+          "name": "QUANTIC DREAM",
+          "company_identifier": "165622",
+          "linkedin": "https://www.linkedin.com/company/quantic-dream",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Computer Games"
+            }
+          ],
+          "tags": [
+            "game development studio",
+            "motion capture studio",
+            "animated shorts"
+          ]
+        },
+        "revenue_range": {
+          "min": 10000000,
+          "string": "$10,000,000 to $50,000,000",
+          "max": 50000000
+        },
+        "company_id": "quantic-dream",
+        "fqdn": "www.quanticdream.com",
+        "social": {
+          "linkedin": "https://fr.linkedin.com/company/quantic-dream"
+        },
+        "founded": "1997",
+        "domains": {
+          "homepage": "quanticdream.com"
+        },
+        "industry_tags": [
+          "Game Development Studio",
+          "Animated Shorts",
+          "Motion Capture Studio"
+        ],
+        "company_lid": 165622,
+        "name": "QUANTIC DREAM",
+        "industry_primary_group_details": {
+          "hierarchy": [
+            "Technology, Information and Media",
+            "Technology and Information",
+            "Software Development",
+            "Computer Games"
+          ]
+        },
+        "company_size": {
+          "min": 51,
+          "max": 200,
+          "employees_in_linkedin": 246
+        },
+        "industry_primary_group": "Computer Games",
+        "industry_category_groups": [
+          "game development studio",
+          "motion capture studio",
+          "animated shorts"
+        ],
+        "location": {
+          "continent": "Europe",
+          "country": "France",
+          "city": "Paris",
+          "street": "Boulevard",
+          "raw_location": "54, Boulevard Davout, Paris, Ile-de-France 75020, FR",
+          "country_iso2": "FR",
+          "location_coordinates": [2.3488, 48.85341]
+        },
+        "isFavorite": false
+      },
+      "454295": {
+        "date": {
+          "created": "2022-09-11",
+          "updated": "2022-08-17"
+        },
+        "logo_url": "https://logo.lusha.co/d/company_454295_logo.jpg",
+        "homepage_url": "http://www.wooga.com",
+        "description": "Each of our 300 Woogas play an important role in growing our success as a company and in shaping our company culture. We are proud of our razor-sharp focus on story-driven casual games, the excellent craftsmanship we put into them, and our truly collaborative way of working.",
+        "technographic": "#Google Analytics|#FeedBurner|#European Commission Online Dispute Resolution|#Google Tag Manager|#Yoast WordPress SEO Plugin|#Dyn Hosting|#Zendesk|#comScore Activation|#CPX Interactive|#Mailgun|#Facebook Pixel View Content|#Amazon Frankfurt Region|#MailChimp|#Facebook Custom Audiences|#Google Adsense for Domains|#Pingback Support|#WordPress|#Facebook Like|#Heroku|#Smart App Banner|#Twitter Timeline|#GStatic Google Static Content|#Akamai Hosted|#Instapaper|#Facebook Domain Insights|#Amazon CloudFront|#Akamai|#Zendesk Dropbox|#jsDelivr|#Dyn DNS|#Hetzner|#JobVite Mail|#Wordpress Monthly Activity|#GoDaddy Parking|#Rackspace|#Autoptimize|#Amazon Tokyo Region|#Zayo|#Google Maps API|#Yahoo CDN|#Amazon Elastic Load Balancing|#EdgeCast Networks|#Google Plus One Button|#Akamai Edge|#OpenCMS|#Google Analytics Classic|#CDN JS|#DMARC|#Mandrill|#Twitter Tweet Button|#Heroku DNS|#Cloudflare Rocket Loader|#Webflow|#Amazon Oregon Region|#Parse.ly|#Google Adsense|#Amazon|#Cloudflare JS|#Google Maps|#Automattic|#EdgeCast Networks Hosting|#Amazon Virginia Region|#YouTube|#Facebook Like Button|#My Salesforce|#Visa|#Greenhouse|#RSS|#Mixpanel|#reCAPTCHA|#Nagich|#LightStep|#Google Identity Platform|#Google Plus One Platform|#OneTrust|#Facebook Like Box|#Cloudflare|#SPF|#Google Analytics with Ad Tracking|#Amazon Ireland Region|#Google Webmaster|#Amazon Route 53|#Cedexis|#WordPress Hosting|#GoDaddy CDN|#Google Apps for Business|#Fingerprint.js|#DoubleClick.Net|#Global Site Tag|#Pocket|#Fastly|#Wordpress Plugins|#Tumblr|#Anchor FM|#Vimeo|#Facebook Comments|#Braintree|#Everest Technologies|#Sitelinks Search Box|#Google Universal Analytics|#Twitter Follow Button|#HelpShift|#Stripe|#US Privacy User Signal Mechanism|#Apple Whitelist|#JobVite|#AdShuffle|#Medium|#Webflow Hosting|#10 to 14 ccTLD Redirects|#comScore|#Branch|#Embedly|#WordPress Stats|#Accelerated Mobile Pages|#Optimizely|#Amazon S3|#Facebook CDN|#Google Conversion Tracking|#Optanon|#Google Remarketing|#Facebook Pixel|#Yoast Plugins|#Unsplash|#WP Mobile Menu|#AWS Global Accelerator|#Index Exchange|#Valimail|#FullStory|#Workplace by Facebook|#Google Analytics Anonymize IP|#Atom|#Amazon S3 CDN|#Algolia|#Twemoji|#Mediaplex|#CloudFront|",
+        "industry_clustering": {
+          "website": "www.wooga.com",
+          "primary_industry": "Computer Games",
+          "name": "Wooga",
+          "company_identifier": "454295",
+          "linkedin": "https://www.linkedin.com/company/wooga",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Computer Games"
+            }
+          ],
+          "tags": ["social games", "mobile games", "social networks"]
+        },
+        "revenue_range": {
+          "min": 10000000,
+          "string": "$10,000,000 to $50,000,000",
+          "max": 50000000
+        },
+        "company_id": "wooga",
+        "fqdn": "www.wooga.com",
+        "social": {
+          "linkedin": "https://de.linkedin.com/company/wooga"
+        },
+        "founded": "2009",
+        "domains": {
+          "email": "wooga.com",
+          "homepage": "wooga.com"
+        },
+        "industry_tags": ["Social Games", "Mobile Games", "Social Networks"],
+        "company_lid": 454295,
+        "name": "Wooga",
+        "industry_primary_group_details": {
+          "hierarchy": [
+            "Technology, Information and Media",
+            "Technology and Information",
+            "Software Development",
+            "Computer Games"
+          ]
+        },
+        "company_size": {
+          "min": 201,
+          "max": 500,
+          "employees_in_linkedin": 320
+        },
+        "industry_primary_group": "Computer Games",
+        "industry_category_groups": [
+          "social games",
+          "mobile games",
+          "social networks"
+        ],
+        "location": {
+          "continent": "Europe",
+          "country": "Germany",
+          "city": "Berlin",
+          "street": "Saarbrücker Str. 38",
+          "raw_location": "Saarbrücker Str. 38, Berlin, DE",
+          "country_iso2": "DE",
+          "location_coordinates": [13.41053, 52.52437]
+        },
+        "isFavorite": false
+      },
+      "465133": {
+        "date": {
+          "created": "2022-09-11",
+          "updated": "2022-08-18"
+        },
+        "logo_url": "https://logo.lusha.co/d/company_465133_logo.jpg",
+        "linkedin_followers": 3894,
+        "homepage_url": "http://www.vertigo-games.com",
+        "description": "Founded in 2008, Vertigo Games is a multi-platform VR entertainment company with offices in Rotterdam & Amsterdam (The Netherlands) and Los Angeles, California (USA).\n\nWith teams in the areas of development, publishing and LBE (location-based entertainment) distribution, the company offers a growing portfolio of quality VR games that provide novel, powerful and full-featured gaming experiences both inside of the home, and outside of the home through its leading LBE content provider and management platform SpringboardVR.\n\nGames include Vertigo Studios’ evergreen brand Arizona Sunshine®, the epic VR action FPS After the Fall®, and the music game Unplugged VR®. The company recently announced it has 5 more high-end titles in the pipeline for the coming years. Vertigo Games is a Koch Media Group company. ",
+        "industry_clustering": {
+          "website": "www.vertigo-games.com",
+          "primary_industry": "Computer Games",
+          "name": "Vertigo Games",
+          "company_identifier": "465133",
+          "linkedin": "https://www.linkedin.com/company/vertigo-games-bv",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Computer Games"
+            }
+          ],
+          "tags": [
+            "entertainment games",
+            "vr games",
+            "console games",
+            "computer games"
+          ]
+        },
+        "revenue_range": {
+          "min": 1000000,
+          "string": "$1,000,000 to $5,000,000",
+          "max": 5000000
+        },
+        "company_id": "vertigo-games-bv",
+        "fqdn": "www.vertigo-games.com",
+        "social": {
+          "linkedin": "https://nl.linkedin.com/company/vertigo-games-bv"
+        },
+        "domains": {
+          "email": "vertigogames.co",
+          "homepage": "vertigo-games.com"
+        },
+        "industry_tags": [
+          "Vr Games",
+          "Console Games",
+          "Entertainment Games",
+          "Computer Games"
+        ],
+        "company_lid": 465133,
+        "name": "Vertigo Games",
+        "industry_primary_group_details": {
+          "hierarchy": [
+            "Technology, Information and Media",
+            "Technology and Information",
+            "Software Development",
+            "Computer Games"
+          ]
+        },
+        "company_size": {
+          "min": 51,
+          "max": 200,
+          "employees_in_linkedin": 101
+        },
+        "industry_primary_group": "Computer Games",
+        "industry_category_groups": [
+          "entertainment games",
+          "vr games",
+          "console games",
+          "computer games"
+        ],
+        "location": {
+          "continent": "Europe",
+          "country": "Netherlands",
+          "city": "Rotterdam",
+          "street": "Weena 723",
+          "raw_location": "Weena 723, Unit C8.073, Rotterdam, Zuid-holland 3013 AM, NL",
+          "country_iso2": "NL",
+          "location_coordinates": [4.47917, 51.9225]
+        },
+        "isFavorite": false
+      },
+      "481197": {
+        "date": {
+          "created": "2022-06-07",
+          "updated": "2022-06-07"
+        },
+        "logo_url": "https://logo.lusha.co/c/company_gamebasics_481197_logo.jpg",
+        "homepage_url": "http://www.gamebasics.nl",
+        "description": "Gamebasics, it’s all in the name. We love the game: football is our passion. We stick to the basics. We are young and motivated. We combine a professional, no-nonsense business mentality with an informal work setting. At Gamebasics, you can leave your tie and patent leather shoes at home! Gamebasics is the mastermind behind the successful online football management game Online Soccer Manager. In OSM, you decide on tactics, formation, line-up, transfers and much more. Football lovers can play wherever and whenever they want, as our game is available on mobile, web and Facebook. Our mission is to bring together as many football lovers as possible from all over the world and allow them to feel as if they are the manager of their favorite football team. Our headquarters is located in the Netherlands, but our users come from all over the world. That is why we have a strong international orientation. OSM has more than 5 million active players worldwide. Gamebasics encourages its workers to invest in themselves in order to become an expert in their field. We are willing to do whatever it takes to be the best. We are passionate professionals. We only deliver high quality: anything less is not enough. At Gamebasics, we are ready to take initiative in order to seize opportunities. We look for creative solutions, we are open-minded and endorse the Agile Manifesto and we apply the SCRUM method.",
+        "industry_clustering": {
+          "website": "www.gamebasics.nl",
+          "primary_industry": "Computer Games",
+          "name": "Miniclip Nederland / Gamebasics",
+          "company_identifier": "481197",
+          "linkedin": "https://www.linkedin.com/company/gamebasics",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Computer Games"
+            }
+          ],
+          "tags": [
+            "online advertising",
+            "football",
+            "facebook games",
+            "innovation",
+            "data specialists",
+            "web games",
+            "agile",
+            "managing game",
+            "scrum",
+            "online",
+            "online marketing",
+            "mobile games",
+            "soccer management",
+            "software engineering"
+          ]
+        },
+        "revenue_range": {
+          "min": 1000000,
+          "string": "$1,000,000 to $5,000,000",
+          "max": 5000000
+        },
+        "company_id": "gamebasics",
+        "fqdn": "www.gamebasics.nl",
+        "social": {
+          "linkedin": "https://www.linkedin.com/company/gamebasics"
+        },
+        "founded": "2004",
+        "domains": {
+          "email": "gamebasics.nl",
+          "homepage": "gamebasics.nl"
+        },
+        "industry_tags": [
+          "online advertising",
+          "football",
+          "facebook games",
+          "innovation",
+          "data specialists",
+          "web games",
+          "agile",
+          "managing game",
+          "scrum",
+          "online",
+          "online marketing",
+          "mobile games",
+          "soccer management",
+          "software engineering"
+        ],
+        "company_lid": 481197,
+        "name": "Miniclip Nederland / Gamebasics",
+        "industry_primary_group_details": {
+          "hierarchy": [
+            "Technology, Information and Media ",
+            " Technology and Information ",
+            " Software Development ",
+            " Computer Games"
+          ]
+        },
+        "company_size": {
+          "min": 51,
+          "max": 200,
+          "employees_in_linkedin": 56
+        },
+        "industry_primary_group": "Computer Games",
+        "industry_category_groups": [
+          "online advertising",
+          "football",
+          "facebook games",
+          "innovation",
+          "data specialists",
+          "web games",
+          "agile",
+          "managing game",
+          "scrum",
+          "online",
+          "online marketing",
+          "mobile games",
+          "soccer management",
+          "software engineering"
+        ],
+        "location": {
+          "continent": "Europe",
+          "country": "Netherlands",
+          "city": "Zoetermeer",
+          "street": "Buitenom 263",
+          "raw_location": "Buitenom 263, Zoetermeer, NL",
+          "country_iso2": "NL",
+          "location_coordinates": [4.49306, 52.0575]
+        },
+        "isFavorite": false
+      },
+      "501010": {
+        "date": {
+          "created": "2022-09-11",
+          "updated": "2022-08-18"
+        },
+        "logo_url": "https://logo.lusha.co/d/company_501010_logo.jpg",
+        "linkedin_followers": 23457,
+        "homepage_url": "http://www.frontier.co.uk",
+        "description": "We strive to create games that will put both Frontier and the games industry itself at the forefront of the world entertainment industry.\n\nFrontier has thrived over the subsequent three decades. We have built a uniquely diverse catalogue of games – enabled by our Cobra technology – that has defined genres, earned critical acclaim and won a place in the hearts of millions of players.\n\nHaving worked with a succession of top publishers we now self-publish our own high quality, innovative games of different genres that embody our world-class expertise across all major gaming formats.\n",
+        "technographic": "#Google Analytics|#Google Tag Manager|#Resonate Insights|#Zendesk|#MBuy|#Dstillery|#LinkedIn Follow Company Plugin|#HostEurope DNS|#Tube Mogul|#EU VAT Registration|#GoDaddy DNS|#MyFonts|#Facebook Custom Audiences|#MailChimp|#TradeDoubler|#Microdata for Google Shopping|#Facebook Like|#United Kingdom VAT Registration|#Twitter Timeline|#GStatic Google Static Content|#Salesforce SPF|#reCAPTCHA v2|#Amazon CloudFront|#Akamai|#Facebook Sharer|#Steam|#Zendesk Dropbox|#Cloudflare Bot Manager|#Vimeo CDN|#BlueKai|#Atlas|#VideoJS|#Google Maps API|#DemDex|#BlueKai DMP|#Amazon Elastic Load Balancing|#Facebook Signal|#Microsoft Azure DNS|#TinyMCE|#Google Plus One Button|#Google Analytics Classic|#Google Analytics 4|#DMARC|#CDN JS|#Twitter Tweet Button|#Zendesk Embeddables|#vBulletin 4.x|#Dropbox|#Turn|#Cloudflare Hosting|#Amazon|#Google Floodlight Counter|#Cloudflare JS|#osTicket|#Bugsnag|#Google Maps|#Drupal 7|#Eventbrite UK|#Domain Monster|#Font Awesome|#DoubleClick Floodlight|#Neustar AdAdvisor|#YouTube|#Facebook Like Button|#Google No Translate|#Typekit|#Twitter CDN|#RSS|#Drupal|#FLoC|#Amazon SES|#USP API Live|#reCAPTCHA|#Videology|#Datalogix|#Google Identity Platform|#Google Plus One Platform|#Facebook Like Box|#Cloudflare|#SPF|#MediaMath|#Amazon Ireland Region|#Imgur|#Google Analytics 360 Suite|#WhatsApp|#RawGit|#Amazon Elastic Beanstalk|#Investis|#Invite Media|#Eventbrite|#Mimecast|#DoubleClick.Net|#Global Site Tag|#Fastly|#Acxiom|#Adometry|#Vimeo|#vBulletin|#Cogeco Peer 1|#WebEx Panel|#YouTube IFrame Upload|#Reddit|#BootstrapCDN|#Google Universal Analytics|#KnowBe4|#Twitter Follow Button|#NetBenefit|#US Privacy User Signal Mechanism|#Apple Whitelist|#The Trade Desk|#Adestra|#FLoC Opt-Out|#Hotjar|#comScore|#X Plus One|#CKEditor|#Segment|#XenForo|#Google Translate Widget|#Cookiebot|#LinkedIn Share Plugin|#Bolt CMS|#Facebook CDN|#AWStats|#Facebook Pixel|#AddThis|#Chango|#Google Maps for Work|#Facebook Login|#Workplace by Facebook|#AppNexus|#AOL-Time Warner Online Advertising|#Amazon Elastic Load Balancing Sticky Session|#New Relic|#Amazon S3 CDN|#Lotame Crowd Control|#Typekit Async|#CloudFront|",
+        "industry_clustering": {
+          "website": "www.frontier.co.uk",
+          "primary_industry": "Computer Games",
+          "name": "Frontier Developments",
+          "company_identifier": "501010",
+          "linkedin": "https://www.linkedin.com/company/frontier-developments",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Computer Games"
+            }
+          ],
+          "tags": [
+            "creative",
+            "playstation",
+            "pc",
+            "xbox",
+            "gaming",
+            "nintendo wii",
+            "elite",
+            "console",
+            "david braben",
+            "professional",
+            "video games"
+          ]
+        },
+        "revenue_range": {
+          "min": 10000000,
+          "string": "$10,000,000 to $50,000,000",
+          "max": 50000000
+        },
+        "company_id": "frontier-developments",
+        "fqdn": "www.frontier.co.uk",
+        "social": {
+          "crunchbase": "https://www.crunchbase.com/organization/frontier-developments",
+          "linkedin": "https://www.linkedin.com/company/frontier-developments"
+        },
+        "founded": "1994",
+        "domains": {
+          "email": "frontier.co.uk",
+          "homepage": "frontier.co.uk"
+        },
+        "industry_tags": [
+          "Video Games",
+          "Professional",
+          "Elite",
+          "Xbox",
+          "Gaming",
+          "Console",
+          "David Braben",
+          "Creative",
+          "Playstation",
+          "Nintendo Wii",
+          "Pc"
+        ],
+        "company_lid": 501010,
+        "name": "Frontier Developments",
+        "industry_primary_group_details": {
+          "hierarchy": [
+            "Technology, Information and Media",
+            "Technology and Information",
+            "Software Development",
+            "Computer Games"
+          ]
+        },
+        "company_size": {
+          "min": 501,
+          "max": 1000,
+          "employees_in_linkedin": 716
+        },
+        "industry_primary_group": "Computer Games",
+        "industry_category_groups": [
+          "creative",
+          "playstation",
+          "pc",
+          "xbox",
+          "gaming",
+          "nintendo wii",
+          "elite",
+          "console",
+          "david braben",
+          "professional",
+          "video games"
+        ],
+        "location": {
+          "continent": "Europe",
+          "country": "United Kingdom",
+          "city": "Cambridge",
+          "street": "26 Science Park Milton Road",
+          "raw_location": "26 Science Park, Milton Road, Cambridge, Cambridgeshire CB4 0FP, GB",
+          "country_iso2": "GB",
+          "location_coordinates": [0.11667, 52.2]
+        },
+        "isFavorite": false
+      },
+      "941518": {
+        "date": {
+          "created": "2022-09-11",
+          "updated": "2022-08-18"
+        },
+        "logo_url": "https://logo.lusha.co/d/company_941518_logo.jpg",
+        "linkedin_followers": 44017,
+        "homepage_url": "http://www.playground-games.com",
+        "description": "Playground Games was established in 2010, bringing together some of the most experienced and talented developers from the UK industry, with the vision to create genre-defining titles for a global audience. Since then, we’ve created five critically-acclaimed, award-winning hits; our Horizon games have garnered more than one hundred awards and have been played by many millions of fans. \n\nToday, Playground has two world-class studios in Leamington Spa. In our original  HQ, we continue to support and grow the huge, vibrant Horizon community. In our new studio on the other side of town, we are excited to be developing Fable, a new beginning for the legendary franchise.",
+        "technographic": "#Wordpress 4.9|#Google Analytics|#Cloudflare|#SPF|#Easynet Global|#Yoast WordPress SEO Plugin|#Google Webmaster|#Wordpress 4.5|#WP Super Cache|#Wordpress 4.6|#EU VAT Registration|#GoDaddy|#GoDaddy DNS|#MyFonts|#WordPress|#Mimecast|#DoubleClick.Net|#United Kingdom VAT Registration|#Twitter Timeline|#GStatic Google Static Content|#Facebook Sharer|#Vimeo CDN|#Wordpress Plugins|#DMARC Analyzer|#jsDelivr|#Vimeo|#UserWay|#Telecitygroup International|#Wordpress Monthly Activity|#Google Maps API|#Sitelinks Search Box|#BootstrapCDN|#Microsoft Azure DNS|#Apple Whitelist|#Google Analytics Classic|#Microsoft Exchange Online|#CDN JS|#DMARC|#Wordpress 4.7|#Linode|#Cloudflare JS|#Heart Internet|#Google Maps|#Atlassian Cloud|#Dedicated Hosting|#Yoast SEO Premium|#Wordpress 4.8|#Font Awesome|#Yoast Plugins|#Better WordPress Minify|#Wordpress 4.4|#YouTube|#Twitter CDN|#RSS|#Office 365 Mail|#Symantec.cloud|#Twitter Widget|#Twemoji|",
+        "industry_clustering": {
+          "website": "www.playground-games.com",
+          "primary_industry": "Computer Games",
+          "name": "Playground Games",
+          "company_identifier": "941518",
+          "linkedin": "https://www.linkedin.com/company/playground-games",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Computer Games"
+            }
+          ],
+          "tags": ["computer games"]
+        },
+        "revenue_range": {
+          "min": 10000000,
+          "string": "$10,000,000 to $50,000,000",
+          "max": 50000000
+        },
+        "company_id": "playground-games",
+        "fqdn": "www.playground-games.com",
+        "social": {
+          "linkedin": "https://www.linkedin.com/company/playground-games"
+        },
+        "founded": "2010",
+        "domains": {
+          "homepage": "playground-games.com"
+        },
+        "industry_tags": ["Computer Games"],
+        "company_lid": 941518,
+        "name": "Playground Games",
+        "industry_primary_group_details": {
+          "hierarchy": [
+            "Technology, Information and Media",
+            "Technology and Information",
+            "Software Development",
+            "Computer Games"
+          ]
+        },
+        "company_size": {
+          "min": 201,
+          "max": 500,
+          "employees_in_linkedin": 363
+        },
+        "industry_primary_group": "Computer Games",
+        "industry_category_groups": ["computer games"],
+        "location": {
+          "continent": "Europe",
+          "country": "United Kingdom",
+          "city": "Royal Leamington Spa",
+          "raw_location": "Rossmore House, 9 Newbold Terrace, Leamington Spa, Warwickshire CV32 4EA, GB",
+          "country_iso2": "GB",
+          "location_coordinates": [-1.52, 52.2852]
+        },
+        "isFavorite": false
+      },
+      "1119857": {
+        "date": {
+          "created": "2022-09-11",
+          "updated": "2022-08-18"
+        },
+        "logo_url": "https://logo.lusha.co/d/company_1119857_logo.jpg",
+        "homepage_url": "http://www.prettysimplegames.com",
+        "description": "Pretty Simple is a top european social gaming company, developing and publishing games for social and mobile platforms. Our team is composed of highly talented social gaming professionals, who are committed to providing players with unique game experiences.\n\nSince 2010, we've published free-to-play games, played by over 35 millions players every month. Our latest game is the hit game of investigation Criminal Case, which reached 9 millions daily players 6 months after its release.\n\nOur office is based in Paris, France, which is one of the best city to live and work in. We are currently working on new games to launch and looking for talents all over the globe!\n\nCome join a fast growing video game company committed to success! Send your resume at jobs@prettysimplegames.com",
+        "technographic": "#Wordpress 4.9|#Cloudflare|#Softlayer|#Google Analytics|#SPF|#SpringServe Reseller|#Stroeer Reseller|#Yoast WordPress SEO Plugin|#Yahoo Reseller|#Google Webmaster|#Zendesk|#WPML Multilingual|#Greenhouse MX|#Telaria Reseller|#Mailgun|#Contact Form 7|#Sonobi Reseller|#OVH|#PubMatic Reseller|#Pingback Support|#Google Apps for Business|#Exponential Reseller|#WordPress|#Fastly Hosted|#AdMan Reseller|#Facebook Like|#Beachfront Reseller|#LKQD Reseller|#DoubleClick.Net|#IndexExchange Reseller|#W3 Total Cache|#FreeWheel Reseller|#Yieldlab Reseller|#GStatic Google Static Content|#Undertone Reseller|#Facebook Domain Insights|#Tremor Video Reseller|#Fastly|#vidoomy Reseller|#SmartAdServer Reseller|#Akamai|#Vidazoo Reseller|#Wordpress Plugins|#AOL Reseller|#Facebook Reseller|#Google Maps API|#Cloudflare CDN|#ContextWeb Reseller|#33 Across Reseller|#Microsoft Azure DNS|#Twitter Follow Button|#Admixer Reseller|#AppNexus Reseller|#Google Universal Analytics|#Outbrain Reseller|#Apple Whitelist|#Improve Digital Reseller|#AdYouLike Reseller|#Synacor Reseller|#Microsoft Exchange Online|#CDN JS|#Smaato Reseller|#RhythmOne Reseller|#Cloudflare Network Error Logging|#Cloudflare Hosting|#Cloudflare DNS|#WordPress 3.5|#SpotXChange Reseller|#Google Maps|#LoopMe Reseller|#Gamma SSP Reseller|#Facebook CDN|#StreamRail Direct|#ucfunnel Reseller|#ORC International Reseller|#GumGum Reseller|#Adform Reseller|#KimSufi|#Smartstream Reseller|#Yoast Plugins|#OpenX Reseller|#Criteo Reseller|#Smartclip Reseller|#Workplace by Facebook|#Facebook Like Button|#YouTube|#Twitter CDN|#Atom|#RubiconProject Reseller|#RSS|#Office 365 Mail|#Jekyll|#Greenhouse|#Google Direct|#Wordpress 4.1|#Less than 5 DIRECT Ads.txt|#Fyber Direct|#Google Reseller|#Twemoji|#Teads Reseller|",
+        "industry_clustering": {
+          "website": "www.prettysimplegames.com",
+          "primary_industry": "Computer Games",
+          "name": "Pretty Simple",
+          "company_identifier": "1119857",
+          "linkedin": "https://www.linkedin.com/company/pretty-simple-games",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Computer Games"
+            }
+          ],
+          "tags": ["facebook games", "social gaming", "developers & coding"]
+        },
+        "revenue_range": {
+          "min": 10000000,
+          "string": "$10,000,000 to $50,000,000",
+          "max": 50000000
+        },
+        "company_id": "pretty-simple-games",
+        "fqdn": "www.prettysimplegames.com",
+        "social": {
+          "crunchbase": "https://www.crunchbase.com/organization/pretty-simple",
+          "linkedin": "https://fr.linkedin.com/company/pretty-simple-games"
+        },
+        "founded": "2010",
+        "domains": {
+          "email": "prettysimplegames.com",
+          "homepage": "prettysimplegames.com"
+        },
+        "industry_tags": [
+          "Social Gaming",
+          "Developers & Coding",
+          "Facebook Games"
+        ],
+        "company_lid": 1119857,
+        "name": "Pretty Simple",
+        "industry_primary_group_details": {
+          "hierarchy": [
+            "Technology, Information and Media",
+            "Technology and Information",
+            "Software Development",
+            "Computer Games"
+          ]
+        },
+        "company_size": {
+          "min": 51,
+          "max": 200,
+          "employees_in_linkedin": 67
+        },
+        "industry_primary_group": "Computer Games",
+        "industry_category_groups": [
+          "facebook games",
+          "social gaming",
+          "developers & coding"
+        ],
+        "location": {
+          "continent": "Europe",
+          "country": "France",
+          "city": "Paris",
+          "raw_location": "6 rue de Hanovre, Paris, FR",
+          "country_iso2": "FR",
+          "location_coordinates": [2.3488, 48.85341]
+        },
+        "isFavorite": false
+      },
+      "1298213": {
+        "date": {
+          "created": "2022-06-07",
+          "updated": "2022-06-07"
+        },
+        "logo_url": "https://logo.lusha.co/c/company_bossa-studios_1298213_logo.jpg",
+        "homepage_url": "http://www.bossastudios.com",
+        "description": "Bossa Studios is a BAFTA winning independent games developer and publisher based in London. Driven by creativity, charm, and flair, we make games for fun's sake, including the critically-acclaimed Surgeon Simulator and I am Bread. Our community is integral to our ethos, as best represented by Worlds Adrift; a truly ambitious undertaking that's redefining the genre through its use of user-generated content, which we're proud to label as the world's first Community-Crafted MMO. We love to talk games, business and anything else fun or exciting so please, get in touch - we'd love to hear from you! www.bossastudios.com Worlds Adrift: https://www.facebook.com/worldsadrift I am Bread: https://www.facebook.com/IamBreadGame Surgeon Simulator: https://www.facebook.com/OfficialSurgeonSimulator Deep Dungeons of Doom: https://www.facebook.com/DeepDungeonsOfDoom Monstermind - http://apps.facebook.com/monstermind Merlin The Game - http://merlingame.com Bossa Studios' honours include:BAFTA award for best 'Online Browser Game' - Monstermind BAFTA nomination for best 'Online Browser Game' - Merlin: The Game BAFTA nomination for best 'Strategy & Simulation' game - Surgeon Simulator 2013 Develop Excellence Award for best 'New Studio' '20 Hottest London Start-Ups' as voted by The Observer/The Guardian Featured in IGN's top free-to-play online games Pioneers of the first real-time, player vs player game on Facebook",
+        "industry_clustering": {
+          "website": "www.bossastudios.com",
+          "primary_industry": "Computer Games",
+          "name": "Bossa Games",
+          "company_identifier": "1298213",
+          "linkedin": "https://www.linkedin.com/company/bossa-games",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Computer Games"
+            }
+          ],
+          "tags": [
+            "innovation",
+            "social games",
+            "games publishing",
+            "games development",
+            "awesome people",
+            "mobile games"
+          ]
+        },
+        "revenue_range": {
+          "min": 10000000,
+          "string": "$10,000,000 to $50,000,000",
+          "max": 50000000
+        },
+        "company_id": "bossa-games",
+        "fqdn": "www.bossastudios.com",
+        "social": {
+          "linkedin": "https://www.linkedin.com/company/bossa-games"
+        },
+        "founded": "2010",
+        "domains": {
+          "email": "bossastudios.com",
+          "homepage": "bossastudios.com"
+        },
+        "industry_tags": [
+          "innovation",
+          "social games",
+          "games publishing",
+          "games development",
+          "awesome people",
+          "mobile games"
+        ],
+        "company_lid": 1298213,
+        "name": "Bossa Games",
+        "industry_primary_group_details": {
+          "hierarchy": [
+            "Technology, Information and Media ",
+            " Technology and Information ",
+            " Software Development ",
+            " Computer Games"
+          ]
+        },
+        "company_size": {
+          "min": 51,
+          "max": 200,
+          "employees_in_linkedin": 74
+        },
+        "industry_primary_group": "Computer Games",
+        "industry_category_groups": [
+          "innovation",
+          "social games",
+          "games publishing",
+          "games development",
+          "awesome people",
+          "mobile games"
+        ],
+        "location": {
+          "continent": "Europe",
+          "country": "United Kingdom",
+          "city": "London",
+          "street": "25 Scrutton Street",
+          "raw_location": "Zetland House - 2nd Floor, Unit E, 5-25 Scrutton Street, London, GB",
+          "country_iso2": "GB",
+          "location_coordinates": [-0.12574, 51.50853]
+        },
+        "isFavorite": false
+      },
+      "1539851": {
+        "date": {
+          "created": "2022-09-11",
+          "updated": "2022-08-18"
+        },
+        "logo_url": "https://logo.lusha.co/d/company_1539851_logo.jpg",
+        "linkedin_followers": 36040,
+        "homepage_url": "http://www.sega.co.uk",
+        "description": "Since its founding in 1940, SEGA has won the hearts of many generations…some through our iconic blue and white hedgehog and for others, with our more recent titles like Football Manager or Total War. We’ve been entertaining the world with creative and innovative experiences, one community at a time and are now one of the world’s leading interactive entertainment companies.\n\nSEGA’s European HQ is based in West London, with its five world-class studios spanning the UK, France and Canada – Sports Interactive in London, Creative Assembly in Horsham, Hardlight in Leamington Spa, Amplitude Studios in Paris and Relic Entertainment in Vancouver. SEGA Europe’s publishing function sits at HQ, where we support the needs of our development studios and make the creative vision become a reality. Each department contributes enormously to help put the products the studios develop into the hands of gamers globally.\n\nWe are a family of gaming-enthusiasts, creators, technologists, artists and innovators building a company where brilliant minds thrive. We take risks and dream big, driven by the spirit of innovation and a winning mentality that is part of the company’s DNA. Collaboration and uncompromising quality is at the heart of everything we do – it’s the fuel that inspires the team here at SEGA, and is reflective of the people we want to join us on our journey. \n\nWe believe that making the best games relies on having the best people, so we like to look after ours. We enjoy a jam-packed social calendar, super cool offices and an ever-evolving benefits package that will make you wonder how you ever got by without it. What’s not to love?\n\nWant to be part of our story? We’re currently hiring for HQ and most of our studios across the world.\n\nCheck-out our careers page for more info: http://careers.sega.co.uk/\n\n-----\n\nFollow us to keep up to date with all things SEGA Careers…\nTwitter: https://twitter.com/SEGAJobs\nInstagram: https://www.instagram.com/segajobs/ ",
+        "industry_clustering": {
+          "website": "www.sega.co.uk",
+          "primary_industry": "Computer Games",
+          "name": "SEGA Europe",
+          "company_identifier": "1539851",
+          "linkedin": "https://www.linkedin.com/company/sega-europe-limited",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Computer Games"
+            },
+            {
+              "value": 1,
+              "key": "Entertainment Providers"
+            }
+          ],
+          "tags": [
+            "video games development",
+            "entertainment",
+            "video games publishing"
+          ]
+        },
+        "revenue_range": {
+          "min": 50000000,
+          "string": "$50,000,000 to $100,000,000",
+          "max": 100000000
+        },
+        "company_id": "sega-europe-limited",
+        "fqdn": "www.sega.co.uk",
+        "social": {
+          "linkedin": "https://www.linkedin.com/company/sega-europe-limited"
+        },
+        "domains": {
+          "email": "sega.co.uk",
+          "homepage": "sega.co.uk"
+        },
+        "industry_tags": [
+          "Entertainment",
+          "Video Games Development",
+          "Video Games Publishing"
+        ],
+        "company_lid": 1539851,
+        "name": "SEGA Europe",
+        "industry_primary_group_details": {
+          "hierarchy": [
+            "Technology, Information and Media",
+            "Technology and Information",
+            "Software Development",
+            "Computer Games"
+          ]
+        },
+        "company_size": {
+          "min": 501,
+          "max": 1000,
+          "employees_in_linkedin": 331
+        },
+        "industry_primary_group": "Computer Games",
+        "industry_category_groups": [
+          "video games development",
+          "entertainment",
+          "video games publishing"
+        ],
+        "location": {
+          "continent": "Europe",
+          "country": "United Kingdom",
+          "street": "27 Great West Road Brentford",
+          "raw_location": "27 Great West Road, Brentford, London TW8 9BW, GB",
+          "country_iso2": "GB"
+        },
+        "isFavorite": false
+      },
+      "1666639": {
+        "date": {
+          "created": "2022-09-11",
+          "updated": "2022-08-18"
+        },
+        "logo_url": "https://logo.lusha.co/d/company_1666639_logo.jpg",
+        "linkedin_followers": 25652,
+        "homepage_url": "http://www.Minecraft.net",
+        "description": "Mojang Studios is a Microsoft-owned game developer studio based in Stockholm, Sweden. We are best known as the creators of Minecraft, and are currently working on several new games, a movie, a board game, and lots more – all within the Minecraft franchise.\n\nAt Mojang Studios we create games, products and services to inspire creativity. As part of that pursuit, we are prepared to take risks. It’s how we grow! We develop games with a strong community focus and put players first in everything we do. Our games are built for everyone, because we believe in demonstrating equality and not just talking about it.\n\nTo help us create amazing things, we have built an equally amazing studio space. Situated right on the water by Söder Mälarstrand, it’s filled to the brim with all the tools, toys and inspiration required to create world-class entertainment.\n\nBut of course, the people of Mojang Studios are what makes this place truly special. When you join, you’ll find yourself in the company of incredibly bright, warm, and creative individuals – all united and working toward a single goal. Come help us achieve it!",
+        "industry_clustering": {
+          "website": "www.minecraft.net",
+          "primary_industry": "Computer Games",
+          "name": "Mojang Studios",
+          "company_identifier": "1666639",
+          "linkedin": "https://www.linkedin.com/company/mojangstudios",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Computer Games"
+            }
+          ]
+        },
+        "revenue_range": {
+          "min": 1000000,
+          "string": "$1,000,000 to $5,000,000",
+          "max": 5000000
+        },
+        "company_id": "mojangstudios",
+        "fqdn": "www.minecraft.net",
+        "social": {
+          "linkedin": "https://se.linkedin.com/company/mojangstudios"
+        },
+        "founded": "2009",
+        "domains": {
+          "homepage": "minecraft.net"
+        },
+        "company_lid": 1666639,
+        "name": "Mojang Studios",
+        "industry_primary_group_details": {
+          "hierarchy": [
+            "Technology, Information and Media",
+            "Technology and Information",
+            "Software Development",
+            "Computer Games"
+          ]
+        },
+        "company_size": {
+          "min": 51,
+          "max": 200,
+          "employees_in_linkedin": 862
+        },
+        "industry_primary_group": "Computer Games",
+        "location": {
+          "continent": "Europe",
+          "country": "Sweden",
+          "city": "Stockholm",
+          "street": "Söder Mälarstrand 43",
+          "raw_location": "Söder Mälarstrand 43, Stockholm, Stockholm 118 23, SE",
+          "country_iso2": "SE",
+          "location_coordinates": [18.06871, 59.32938]
+        },
+        "isFavorite": false
+      },
+      "1910914": {
+        "date": {
+          "created": "2022-09-11",
+          "updated": "2022-08-17"
+        },
+        "logo_url": "https://logo.lusha.co/d/company_1910914_logo.jpg",
+        "linkedin_followers": 32771,
+        "homepage_url": "http://www.productmadness.com/our-games/",
+        "description": "Product Madness is one of the world's largest mobile game studios, with global presence. Founded in 2007, we’re today a top-grossing leader in social casino mobile games that are crafted with passion and commitment. Our ambition is to entertain millions of players around the world with our remarkable titles that include Heart of Vegas, Cashman Casino, Lighting Link and FaFaFa™ Gold. \n\nWe are Mad about games and the way they bring people together, and that passion and culture is what holds us together as a studio, connects us with the partners we collaborate with, and is what links us to our sister studios across the world.\n\n\n𝘗𝘭𝘦𝘢𝘴𝘦 𝘣𝘦 𝘢𝘭𝘦𝘳𝘵 𝘵𝘰 𝘴𝘤𝘢𝘮𝘴 𝘰𝘧𝘧𝘦𝘳𝘪𝘯𝘨 𝘦𝘮𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵 𝘰𝘱𝘱𝘰𝘳𝘵𝘶𝘯𝘪𝘵𝘪𝘦𝘴. 𝘈𝘯𝘺 𝘤𝘰𝘮𝘮𝘶𝘯𝘪𝘤𝘢𝘵𝘪𝘰𝘯 𝘵𝘰 𝘤𝘢𝘯𝘥𝘪𝘥𝘢𝘵𝘦𝘴 𝘳𝘦𝘨𝘢𝘳𝘥𝘪𝘯𝘨 𝘦𝘮𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵 𝘰𝘱𝘱𝘰𝘳𝘵𝘶𝘯𝘪𝘵𝘪𝘦𝘴 𝘢𝘵 𝘈𝘳𝘪𝘴𝘵𝘰𝘤𝘳𝘢𝘵 𝘰𝘳 𝘪𝘵𝘴 𝘴𝘶𝘣𝘴𝘪𝘥𝘪𝘢𝘳𝘪𝘦𝘴 𝘸𝘪𝘭𝘭 𝘤𝘰𝘮𝘦 𝘧𝘳𝘰𝘮 𝘢𝘯 @𝘢𝘳𝘪𝘴𝘵𝘰𝘤𝘳𝘢𝘵.𝘤𝘰𝘮,@𝘣𝘪𝘨𝘧𝘪𝘴𝘩𝘨𝘢𝘮𝘦𝘴.𝘤𝘰𝘮, @𝘱𝘪𝘹𝘦𝘭𝘶𝘯𝘪𝘵𝘦𝘥.𝘤𝘰𝘮, 𝘰𝘳 @𝘱𝘳𝘰𝘥𝘶𝘤𝘵𝘮𝘢𝘥𝘯𝘦𝘴𝘴.𝘤𝘰𝘮 𝘦𝘮𝘢𝘪𝘭 𝘢𝘥𝘥𝘳𝘦𝘴𝘴.",
+        "technographic": "#WordPress 5.4|#Google Analytics|#Google Analytics Classic|#Yoast SEO Premium|#Font Awesome|#Yoast Plugins|#Yoast WordPress SEO Plugin|#Hotjar|#Google Search Appliance|#jsDelivr|#ThemePunch|#RSS|#Sitelinks Search Box|#BootstrapCDN|#WordPress|",
+        "industry_clustering": {
+          "website": "www.productmadness.com",
+          "primary_industry": "Computer Games",
+          "name": "Product Madness 📱🎮",
+          "company_identifier": "1910914",
+          "linkedin": "https://www.linkedin.com/company/product-madness",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Computer Games"
+            }
+          ],
+          "tags": [
+            "slots",
+            "product",
+            "social casino games",
+            "marketing",
+            "analytics",
+            "free to play",
+            "social networks"
+          ]
+        },
+        "revenue_range": {
+          "min": 10000000,
+          "string": "$10,000,000 to $50,000,000",
+          "max": 50000000
+        },
+        "company_id": "product-madness",
+        "fqdn": "www.productmadness.com",
+        "social": {
+          "linkedin": "https://www.linkedin.com/company/product-madness"
+        },
+        "domains": {
+          "email": "productmadness.com",
+          "homepage": "productmadness.com"
+        },
+        "industry_tags": [
+          "Social Networks",
+          "Slots",
+          "Free To Play",
+          "Product",
+          "Analytics",
+          "Marketing",
+          "Social Casino Games"
+        ],
+        "company_lid": 1910914,
+        "name": "Product Madness 📱🎮",
+        "industry_primary_group_details": {
+          "hierarchy": [
+            "Technology, Information and Media",
+            "Technology and Information",
+            "Software Development",
+            "Computer Games"
+          ]
+        },
+        "company_size": {
+          "min": 501,
+          "max": 1000,
+          "employees_in_linkedin": 515
+        },
+        "industry_primary_group": "Computer Games",
+        "industry_category_groups": [
+          "slots",
+          "product",
+          "social casino games",
+          "marketing",
+          "analytics",
+          "free to play",
+          "social networks"
+        ],
+        "location": {
+          "continent": "Europe",
+          "country": "United Kingdom",
+          "city": "London",
+          "street": "1 Finsbury Avenue",
+          "raw_location": "1 Finsbury Avenue, London, England EC2M 2PF, GB",
+          "country_iso2": "GB",
+          "location_coordinates": [-0.12574, 51.50853]
+        },
+        "isFavorite": false
+      },
+      "2710953": {
+        "date": {
+          "created": "2022-09-11",
+          "updated": "2022-08-18"
+        },
+        "logo_url": "https://logo.lusha.co/d/company_2710953_logo.jpg",
+        "linkedin_followers": 18346,
+        "homepage_url": "http://www.spaceapegames.com",
+        "description": "The sky’s not the limit.\n\nAt Space Ape, we make some of the world’s best mobile games for your Apple or Android smartphone.  Founded in 2012 and based in London, we’re now over 110 people strong organized across seven small teams. Mobile gaming is a global business and so are we.  Our staff represent 28 different nationalities and our games are live in 150 countries. Our mission is to make the highest quality and most successful mobile games in the world.  We are imaginative, inventive, and genre-defining in our pursuit of those games.  \n\n\nWe’re off to a good start.  To-date we’ve launched four games: Samurai Siege, Rival Kingdoms, Transformers: Earth Wars and Fastlane.  Over 45 million people have played them with more joining each day!  We’ve won three Develop Awards (Best Independent Studio, Best New Game), four TIGAs ( Best Independent Studio, Game of the Year x2, Best Strategy Game) and gamesindustry.biz Best Place to Work 2017.  Transformers: Earth Wars is as top 50 Grossing Game on the App Store charts and Rival Kingdoms received the coveted “Editor’s Choice” award from Apple.\n\nBut our most valuable asset is and will always be our teams. We believe the best games are made by the best teams.  Successful Space Apes are passionate about their craft, are highly productive in their work day, self-accountable, and most of all, are small-team players.\n\nWe’re just getting started. For our mission to succeed, we need a few more great people. If you want to have a key role on a gaming journey-of-a-lifetime, please apply to join our team.",
+        "industry_clustering": {
+          "website": "www.spaceapegames.com",
+          "primary_industry": "Computer Games",
+          "name": "Space Ape Games",
+          "company_identifier": "2710953",
+          "linkedin": "https://www.linkedin.com/company/space-ape-games",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Computer Games"
+            }
+          ],
+          "tags": [
+            "ios",
+            "android",
+            "gaming",
+            "art",
+            "mobile games",
+            "events",
+            "game design",
+            "video games"
+          ]
+        },
+        "revenue_range": {
+          "min": 10000000,
+          "string": "$10,000,000 to $50,000,000",
+          "max": 50000000
+        },
+        "company_id": "space-ape-games",
+        "fqdn": "www.spaceapegames.com",
+        "social": {
+          "crunchbase": "https://www.crunchbase.com/organization/space-ape",
+          "linkedin": "https://www.linkedin.com/company/space-ape-games"
+        },
+        "founded": "2012",
+        "domains": {
+          "email": "spaceapegames.com",
+          "homepage": "spaceapegames.com"
+        },
+        "industry_tags": [
+          "Video Games",
+          "Game Design",
+          "Ios",
+          "Gaming",
+          "Mobile Games",
+          "Android",
+          "Events",
+          "Art"
+        ],
+        "company_lid": 2710953,
+        "name": "Space Ape Games",
+        "industry_primary_group_details": {
+          "hierarchy": [
+            "Technology, Information and Media",
+            "Technology and Information",
+            "Software Development",
+            "Computer Games"
+          ]
+        },
+        "company_size": {
+          "min": 51,
+          "max": 200,
+          "employees_in_linkedin": 155
+        },
+        "industry_primary_group": "Computer Games",
+        "industry_category_groups": [
+          "ios",
+          "android",
+          "gaming",
+          "art",
+          "mobile games",
+          "events",
+          "game design",
+          "video games"
+        ],
+        "location": {
+          "continent": "Europe",
+          "country": "United Kingdom",
+          "city": "London",
+          "street": "100 New Oxford Street",
+          "raw_location": "100 New Oxford Street, London, England, GB",
+          "country_iso2": "GB",
+          "location_coordinates": [-0.12574, 51.50853]
+        },
+        "isFavorite": false
+      },
+      "2989982": {
+        "date": {
+          "created": "2022-09-11",
+          "updated": "2022-08-18"
+        },
+        "logo_url": "https://logo.lusha.co/d/company_2989982_logo.jpg",
+        "homepage_url": "http://www.gram.gs",
+        "description": "Gram Games is a venture-backed global mobile entertainment studio and the developer of global hits 1010!, Merged!, Six!, Bounzy!, Merge Dragons!, Merge Town!, Merge Farm!, Paint Tower!, and Merge Gems!\n\nFor more information, visit www.gram.gs",
+        "technographic": "#Google Analytics|#SpringServe Reseller|#OpenX Direct|#SmartyAds Reseller|#Stroeer Reseller|#Facebook Direct|#Tremor Video Direct|#Media.net Reseller|#FreeWheel Direct|#Mailgun|#PubMatic Reseller|#GoDaddy DNS|#Somoaudience Reseller|#Pingback Support|#AdMan Reseller|#RhythmOne Direct|#Tappx Direct|#Beachfront Reseller|#LKQD Direct|#Converstand Media Reseller|#Smaato Direct|#Zedo Reseller|#Yieldlab Reseller|#adtelligent Reseller|#GStatic Google Static Content|#Undertone Reseller|#vidoomy Reseller|#DistrictM Reseller|#jsDelivr|#Improve Digital Direct|#AOL Reseller|#Facebook Reseller|#Google Maps API|#Triple Lift Reseller|#Mobile Ad Trading Reseller|#DistrictM Direct|#AppNexus Reseller|#Gamoshi Reseller|#Outbrain Reseller|#Criteo Direct|#Improve Digital Reseller|#Google Analytics Classic|#LoopMe Direct|#The MediaGrid Reseller|#Synacor Reseller|#Smaato Reseller|#RhythmOne Reseller|#AerServ Reseller|#Amazon|#Amazon Direct|#SpotXChange Direct|#IndexExchange Direct|#Google Maps|#Admixer Direct|#Gamma SSP Reseller|#StreamRail Direct|#Adform Direct|#ORC International Reseller|#SmartAdServer Direct|#Yahoo Direct|#BrightRoll Reseller|#Sonobi Direct|#OpenX Reseller|#Criteo Reseller|#Lorem Ipsum|#YouTube|#DoubleClick Bid Manager|#Undertone Direct|#TargetSpot Reseller|#Google Direct|#AOL Direct|#Fyber Direct|#Google Reseller|#OneTrust|#Teads Reseller|#Softlayer|#SPF|#Amazon Ireland Region|#Yahoo Reseller|#Between Digital Reseller|#Amazon Route 53|#Mobfox Reseller|#Somoaudience Direct|#OneTag Direct|#MarkMonitor DNS|#OneTag Reseller|#Telaria Reseller|#Crayon Syntax Highlighter|#RubiconProject Direct|#TargetSpot Direct|#Sonobi Reseller|#Brave Reseller|#Rock You Direct|#Google Apps for Business|#LKQD Reseller|#Rubicon Project|#DoubleClick.Net|#IndexExchange Reseller|#AppNexus Direct|#Converstand Media Direct|#FreeWheel Reseller|#Fyber Reseller|#PubMatic Direct|#Yieldmo Reseller|#Tremor Video Reseller|#SmartAdServer Reseller|#GumGum Direct|#Mobile Ad Trading Direct|#The MediaGrid Direct|#SmartyAds Direct|#WebEx Panel|#Mars Media Group Reseller|#Smartclip Direct|#ContextWeb Reseller|#GroundTruth Reseller|#Admixer Reseller|#Google Universal Analytics|#Gamoshi Direct|#Triple Lift Direct|#Chocolate Direct|#E-Planning Reseller|#Yieldmo Direct|#MGID Reseller|#ORC International Direct|#SpotXChange Reseller|#LoopMe Reseller|#Sovrn Reseller|#ucfunnel Reseller|#Cedato Reseller|#Adform Reseller|#Google Conversion Tracking|#Lijit Reseller|#Smartstream Reseller|#Optanon|#Google Remarketing|#Tappx Reseller|#Google Analytics Enhanced Link Attribution|#Smartclip Reseller|#AdTrue Direct|#RubiconProject Reseller|#Atom|#Pubmatic|#Amazon S3 CDN|#ShareThrough Direct|#AdMan Direct|#ContextWeb Direct|",
+        "industry_clustering": {
+          "website": "www.gram.gs",
+          "primary_industry": "Computer Games",
+          "name": "Gram Games",
+          "company_identifier": "2989982",
+          "linkedin": "https://www.linkedin.com/company/gram-games",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Computer Games"
+            },
+            {
+              "value": 1,
+              "key": "Software Development"
+            }
+          ]
+        },
+        "revenue_range": {
+          "min": 10000000,
+          "string": "$10,000,000 to $50,000,000",
+          "max": 50000000
+        },
+        "company_id": "gram-games",
+        "fqdn": "www.gram.gs",
+        "social": {
+          "crunchbase": "https://www.crunchbase.com/organization/gram-games",
+          "linkedin": "https://www.linkedin.com/company/gram-games"
+        },
+        "founded": "2012",
+        "domains": {
+          "email": "gram.gs",
+          "homepage": "gram.gs"
+        },
+        "company_lid": 2989982,
+        "name": "Gram Games",
+        "industry_primary_group_details": {
+          "hierarchy": [
+            "Technology, Information and Media",
+            "Technology and Information",
+            "Software Development",
+            "Computer Games"
+          ]
+        },
+        "company_size": {
+          "min": 51,
+          "max": 200,
+          "employees_in_linkedin": 152
+        },
+        "industry_primary_group": "Computer Games",
+        "location": {
+          "continent": "Europe",
+          "country": "United Kingdom",
+          "city": "London",
+          "raw_location": "The Aircraft Factory, 100 Cambridge Grove, London, GB",
+          "country_iso2": "GB",
+          "location_coordinates": [-0.12574, 51.50853]
+        },
+        "isFavorite": false
+      },
+      "3023985": {
+        "date": {
+          "created": "2022-09-11",
+          "updated": "2022-08-25"
+        },
+        "logo_url": "https://logo.lusha.co/d/company_3023985_logo.jpg",
+        "linkedin_followers": 1378,
+        "homepage_url": "http://www.Camouflaj.com",
+        "description": "Camouflaj makes high quality, meaningful games for the global audience.\n\nOur first game, RÉPUBLIQUE, was initially released in five episodes on iOS and Android and was later ported to the PC, PS4, Mac, Stadia & Nintendo Switch. (https://www.youtube.com/watch?v=LFOkOMByM14)\n\nRÉPUBLIQUE VR followed, appearing on Oculus Quest, PC and PSVR.\n\nIn 2020, we released MARVEL'S IRON MAN VR for PSVR which won 5 \"Best PSVR Game\" awards that year. (https://www.youtube.com/watch?v=XKweI52dP1U)\n\nNow, Camouflaj employs over 60 developers who are hard at work on our exciting new AAA VR project.",
+        "industry_clustering": {
+          "website": "www.camouflaj.com",
+          "primary_industry": "Computer Games",
+          "name": "Camouflaj",
+          "company_identifier": "3023985",
+          "linkedin": "https://www.linkedin.com/company/camouflaj-game-studio",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Computer Games"
+            },
+            {
+              "value": 1,
+              "key": "Entertainment Providers"
+            }
+          ]
+        },
+        "revenue_range": {
+          "min": 1000000,
+          "string": "$1,000,000 to $5,000,000",
+          "max": 5000000
+        },
+        "company_id": "camouflaj-game-studio",
+        "fqdn": "www.camouflaj.com",
+        "social": {
+          "linkedin": "https://www.linkedin.com/company/camouflaj-game-studio"
+        },
+        "founded": "2011",
+        "domains": {
+          "email": "camouflaj.com",
+          "homepage": "camouflaj.com"
+        },
+        "company_lid": 3023985,
+        "name": "Camouflaj",
+        "industry_primary_group_details": {
+          "hierarchy": [
+            "Technology, Information and Media",
+            "Technology and Information",
+            "Software Development",
+            "Computer Games"
+          ]
+        },
+        "company_size": {
+          "min": 51,
+          "max": 200,
+          "employees_in_linkedin": 70
+        },
+        "industry_primary_group": "Computer Games",
+        "location": {
+          "continent": "North America",
+          "country": "United States",
+          "city": "Bellevue",
+          "street": "10620 NE 8th St.",
+          "raw_location": "10620 NE 8th St. 203, Bellevue, WA 98004, US",
+          "state": "Nebraska",
+          "country_iso2": "US",
+          "state_code": "NE",
+          "location_coordinates": [-95.89084, 41.13667]
+        },
+        "isFavorite": false
+      },
+      "10521722": {
+        "date": {
+          "created": "2022-09-11",
+          "updated": "2022-08-18"
+        },
+        "logo_url": "https://logo.lusha.co/d/company_10521722_logo.jpg",
+        "homepage_url": "http://www.g2esports.com",
+        "description": "G2 Esports is a World Premier Esports Club founded in November, 2013 by Carlos ‘ocelote’ Rodriguez, a former star player in League of Legends. Carlos is the Chief Executive Officer of the club, which currently includes professional teams in League of Legends, Counter-Strike: Global Offensive, Hearthstone, Rocket League, Super Smash Bros Melee, Paladins, PlayerUnknown's Battlegrounds and Clash Royale.\n\nOur club was built with the desire to bring new innovation into esports team management and business whilst upholding our core values of professionalism. We create the best atmosphere for the players which stems from the extensive experience of the Founder and core staff. Our ultimate goal is to help pushing esports to the next level with our club already being the leader for its team achievements coupled with high quality content output.\n\nOur reach exceeds millions of views every month on multiple online platforms and continues to rise with the teams' success. The talent development, care and support from the club has led the teams to every major tournament and league so far. Our European League of Legends team went from playing in the Challenger Series to winning the European Championship Series in just one split, as the first team in League of Legends history. This is only topped by the fact that since then they managed to secure the title four consecutive times in a row.  \n\nOur partners play a key-role in our success and we are proud to count Logitech, paysafecard, AOC, Twitch, NEEDforSEAT and ESP.bet as part of the G2 family. It’s our goal to work closely and cohesively with our partners to improve the esports experience for everyone. Therefore we accommodate a wide range of ideas and creative solutions and are in the fortunate position to share our vision, tone and the requirement for the highest quality possible with all of our partners.\n\nContact us for more information.",
+        "technographic": "#Bold Commerce|#Shipping to a few Countries|#Unity|#MediaElement.js|#WP Google Maps|#GoSquared|#Bold Motivator|#Google Conversion Linker|#Twitter Embedded Tweets|#Amazon Frankfurt Region|#PhotoSwipe|#GoDaddy|#Scandinavian Shipping|#Pingback Support|#MasterCard|#Microdata for Google Shopping|#WP Engine|#Smart App Banner|#GStatic Google Static Content|#Cloudflare Web Analytics|#Google|#Shappify|#Simple Lightbox|#Google Analytics Enchanced Ecommerce Product Impression|#Apple Pay|#Bloom Wordpress Plugin|#jsDelivr|#Delighted|#Wordpress Monthly Activity|#Google Maps API|#DemDex|#Venmo|#Mailchimp for WooCommerce|#Pinterest|#GDPR Consent Management Platform|#Facebook Signal|#LiveRamp|#YouTube IFrame API|#Maestro|#Boost Commerce|#WooCommerce|#DMARC|#Twitter Tweet Button|#Gorgias|#Cloudflare Rocket Loader|#Cloudflare Network Error Logging|#Shopify Custom Theme|#Cloudflare DNS|#Amazon|#ShareThis CMP System|#Ultimate Special Offers|#Pixel Union|#Font Awesome|#Cloudflare Insights|#Leaflet JS|#YouTube IFrame Embed|#Twitter Conversion Tracking|#YouTube|#Kinsta|#Rapleaf|#domainFACTORY|#Typekit|#Rollbar|#RSS|#Datalogix|#WooCommerce PayPal Checkout Payment Gateway|#Cloudflare|#SPF|#MediaMath|#Shopify Dormant|#Globo Form Builder|#Google Webmaster|#Amazon Route 53|#LiveIntent|#Shopify Pay|#DuracellTomi Google Tag Manager for WordPress|#Thickbox|#Google Inteactive Media Ads|#Google Apps for Business|#Infinite Options by ShopPad|#Wordpress Plugins|#Bold Checkout|#WP GDPR Compliance|#Vimeo|#Statically|#Cloudflare CDN|#Sitelinks Search Box|#Boost Product Filter and Search|#Google Universal Analytics|#US Privacy User Signal Mechanism|#MailChimp for WordPress|#SAIO|#comScore|#MaxCDN Verified CDN|#Twitch|#Google AdWords Conversion|#reCAPTCHA v3|#Amazon S3|#Jetpack|#Facebook CDN|#Sales Motivator|#Bold Bundles|#Shopify|#Atlassian Cloud|#Google Conversion Tracking|#Browse Happy|#Google Remarketing|#Facebook Pixel|#Yoast Plugins|#Google Cloud|#Eyeota|#Host Europe|#Signal|#Atom|#New Relic|#Amazon S3 CDN|#Discord|#Borlabs Cookie|#Lotame Crowd Control|#Digital Ocean|#CloudFront|#Google Analytics|#Google Analytics Dashboard for WordPress|#Shopify Plus|#Google Tag Manager|#Yoast WordPress SEO Plugin|#Facebook Conversion Tracking|#ThemePunch|#Dstillery|#Facebook Custom Audiences|#MailChimp|#SuperPWA|#WordPress|#Facebook Like|#BunnyCDN General|#W3 Total Cache|#Twitter Timeline|#Facebook Domain Insights|#reCAPTCHA v2|#Facebook Sharer|#Shopify Gift Cards|#BlueKai|#Cross Pixel Media|#Hetzner|#PayPal Button|#WooCommerce 3.9|#Microsoft Azure DNS|#Shopify Discounts|#Google Plus One Button|#Google Cloud Netherlands|#Google Analytics Classic|#ShareThis|#CDN JS|#Semasio|#Tapad|#WordPress Grid|#Cloudflare Hosting|#Facebook Pixel for Shopify|#Cloudflare JS|#Twitter Website Universal Tag|#OwnerIQ|#Bugsnag|#Google Maps|#Shopify Conversions|#ipstack|#WooCommerce Checkout|#Shopify Blog|#Ships to Japan|#WP Rocket|#Rocket Fuel|#Neustar AdAdvisor|#Twitter Ads|#My Salesforce|#Facebook Like Button|#Rebuy|#Visa|#Twitter CDN|#Shopify Euro|#Microsoft Azure CDN|#Bold UpSell|#reCAPTCHA|#TurboLinks|#Shopify US Dollar|#MailChimp for Shopify|#eXelate|#PayPal|#Google Plus One Platform|#Gravatar Profiles|#WP reCAPTCHA|#OAuth IO|#Amazon Ireland Region|#Google Pay|#Queue It|#ShopPad|#Imgur|#Google Search Appliance|#Pace|#WhatsApp|#Contact Form 7|#WordPress Download Manager|#Flying Pages|#Ships to China|#WordPress 5.4|#DoubleClick.Net|#Global Site Tag|#100 Shopify Products|#Wordpress Daily Activity|#Simple Calendar|#WooCommerce Add To Cart|#UNPKG|#GTM4WP|#Yotpo|#WordPress 5.5|#Dokan Marketplace|#Drawbridge|#YouTube IFrame Upload|#Size Matters|#Reddit|#Google Analytics IP Anonymization|#BootstrapCDN|#The Trade Desk|#Hotjar|#American Express|#Accelerated Mobile Pages|#Shipping to over 200 Countries|#WooCommerce 4.0|#Yoast SEO Premium|#Google Analytics Enhanced Link Attribution|#Aggregate Knowledge|#WooCommerce Memberships|#Google Analytics Event Tracking|#WooCommerce 4.2|#AppNexus|#Shopify Hosted|#Klaviyo|#WordPress Weekly Activity|#GDPR CCPA iSenseLabs|#WordPress 5.3|#Product Upsell|#Elfsight|#Twemoji|",
+        "industry_clustering": {
+          "website": "www.g2esports.com",
+          "primary_industry": "Computer Games",
+          "name": "G2 Esports",
+          "company_identifier": "10521722",
+          "linkedin": "https://www.linkedin.com/company/g2esports",
+          "industry_cluster": [
+            {
+              "value": 0,
+              "key": "Computer Games"
+            },
+            {
+              "value": 1,
+              "key": "Spectator Sports"
+            },
+            {
+              "value": 2,
+              "key": "Entertainment Providers"
+            }
+          ],
+          "tags": [
+            "videogames",
+            "sim racing",
+            "super smash bros. melee",
+            "counter-strike: global offensive",
+            "paladins",
+            "league of legends",
+            "marketing",
+            "content",
+            "pubg",
+            "live streaming",
+            "fortnite",
+            "overwatch",
+            "clash royale",
+            "hearthstone",
+            "branding",
+            "esports"
+          ]
+        },
+        "revenue_range": {
+          "min": 10000000,
+          "string": "$10,000,000 to $50,000,000",
+          "max": 50000000
+        },
+        "company_id": "g2esports",
+        "fqdn": "www.g2esports.com",
+        "social": {
+          "crunchbase": "https://www.crunchbase.com/organization/g2-esports",
+          "linkedin": "https://de.linkedin.com/company/g2esports"
+        },
+        "founded": "2013",
+        "domains": {
+          "email": "g2esports.com",
+          "homepage": "g2esports.com"
+        },
+        "industry_tags": [
+          "Sim Racing",
+          "Paladins",
+          "League Of Legends",
+          "Overwatch",
+          "Clash Royale",
+          "Super Smash Bros. Melee",
+          "Content",
+          "Branding",
+          "Hearthstone",
+          "Fortnite",
+          "Videogames",
+          "Counter-strike: Global Offensive",
+          "Marketing",
+          "Pubg",
+          "Live Streaming",
+          "Esports"
+        ],
+        "company_lid": 10521722,
+        "name": "G2 Esports",
+        "industry_primary_group_details": {
+          "hierarchy": [
+            "Technology, Information and Media",
+            "Technology and Information",
+            "Software Development",
+            "Computer Games"
+          ]
+        },
+        "company_size": {
+          "min": 51,
+          "max": 200,
+          "employees_in_linkedin": 150
+        },
+        "industry_primary_group": "Computer Games",
+        "industry_category_groups": [
+          "videogames",
+          "sim racing",
+          "super smash bros. melee",
+          "counter-strike: global offensive",
+          "paladins",
+          "league of legends",
+          "marketing",
+          "content",
+          "pubg",
+          "live streaming",
+          "fortnite",
+          "overwatch",
+          "clash royale",
+          "hearthstone",
+          "branding",
+          "esports"
+        ],
+        "location": {
+          "continent": "Europe",
+          "country": "Germany",
+          "city": "Berlin",
+          "street": "Schellingstraße 1",
+          "raw_location": "Schellingstraße 1, Berlin, DE",
+          "country_iso2": "DE",
+          "location_coordinates": [13.41053, 52.52437]
+        },
+        "isFavorite": false
+      }
+    },
+    "jobChanges": 24
+  },
+  "pages": {
+    "total": 36,
+    "current": 0,
+    "results_per_page": 25
+  },
+  "prospecting_version": "-.1d85993",
+  "requestId": "bdde9b3e-ff27-4b1d-ab83-28c6aeecb05d",
+  "searchLimit": 3
+}
