@@ -1,7 +1,6 @@
 const contactsAPI = require("./services/contacts.api.js");
+const contactsCsvHelper = require("./helpers/contacts-csv.helper");
 
 const allContacts = contactsAPI.getAll();
-const contacts = contactsAPI.mapContact();
 
-console.log(allContacts.length);
-console.log(contacts);
+contactsCsvHelper.writeCsv(allContacts);
